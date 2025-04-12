@@ -1,0 +1,1 @@
+import{k as n}from"/jobs/build/_shared/chunk-OTKXJQRY.js";n();var e="administrator",i=t=>{var r;return((r=t==null?void 0:t.role)==null?void 0:r.type)===e},s=(t,r=15)=>t!=null?t.slice(0,r)+(t.length>r?"...":""):!1;export{i as a,s as b};

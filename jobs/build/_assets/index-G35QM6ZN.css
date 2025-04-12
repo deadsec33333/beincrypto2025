@@ -1,0 +1,123 @@
+html {
+  scroll-behavior: smooth;
+  scrollbar-gutter: stable;
+}
+
+body {
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Space Grotesk';
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 28px;
+}
+
+h5 {
+  font-size: 24px;
+}
+
+h6 {
+  font-size: 20px;
+}
+
+.search-bar-glow {
+  -webkit-box-shadow: 0px 0px 109px 22px rgba(45, 255, 196, 0.21);
+  -moz-box-shadow: 0px 0px 109px 22px rgba(45, 255, 196, 0.21);
+  box-shadow: 0px 0px 109px 22px rgba(45, 255, 196, 0.21);
+}
+
+.header-logo svg {
+  width: 186px;
+  height: 24px;
+}
+
+.header-logo-mobile {
+  width: 128px;
+  height: 18px;
+}
+
+.modal {
+  z-index: 2000;
+}
+.modal::backdrop {
+  background: hsl(0 0% 0% / 50%);
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.divider:before,
+.divider:after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #4f504f; /* Adjust the color as needed */
+  margin: 0 10px; /* Adjust the spacing between lines and text */
+}
+
+.divider span {
+  padding: 0 10px;
+  font-size: 18px; /* Adjust the font size as needed */
+  color: #b5b5b5;
+  font-weight: 500; /* Adjust the font weight as needed */
+}
+
+.site-md ul,
+.site-md ol {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 30px;
+}
+
+.site-md ul li {
+  padding-left: 1.2rem;
+}
+
+.site-md ol li {
+  padding-left: 1.2rem;
+}
+
+.site-md a {
+  color: #c9fd35;
+}
+.accordion-content p {
+  margin: 10px 0;
+}
+
+.accordion-content li {
+  margin-bottom: 8px;
+}
+
+.accordion-content strong {
+  color: #fff;
+}
+

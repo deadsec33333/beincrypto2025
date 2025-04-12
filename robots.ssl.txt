@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-json/
+Disallow: /ceranking/v1/
+Disallow: /search/
+Disallow: */tickers
+Disallow: /graphql
+Disallow: /special-edition*
+
+Allow: /wp-admin/admin-ajax.php
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.js
+Allow: /*.webp
+Allow: *?amount*
+Allow: /archive/?topics*
+Allow: /_next/
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-Agent: serpstatbot
+Crawl-Delay: 5
+
+User-Agent: VelenPublicWebCrawler
+Disallow: /
+
+Sitemap: https://beincrypto.com/sitemaps/sitemap_index.xml
+Sitemap: https://beincrypto.com/news-sitemap.xml
+Sitemap: https://beincrypto.com/jobs/sitemap.xml

@@ -1,0 +1,1 @@
+import{a as i}from"/jobs/build/_shared/chunk-K4YPBXDM.js";import{j as n,k as a}from"/jobs/build/_shared/chunk-OTKXJQRY.js";a();function t({children:o,className:r="",...e}){return n.createElement(i,{as:"main",className:["py-8","flex-1",r].join(" "),...e},o)}export{t as a};

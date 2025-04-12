@@ -1,0 +1,2273 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Opinion Archives - BeInCrypto</title>
+	<atom:link href="https://beincrypto.com/opinion/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beincrypto.com/opinion/</link>
+	<description>Cryptocurrency News</description>
+	<lastBuildDate>Fri, 11 Apr 2025 19:36:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://beincrypto.com/wp-content/uploads/2022/09/cropped-bic_favic-32x32.png</url>
+	<title>Opinion Archives - BeInCrypto</title>
+	<link>https://beincrypto.com/opinion/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bridging Crypto and Traditional Finance: YouHodler CEO Ilya Volkov&#8217;s Vision for the Future</title>
+		<link>https://beincrypto.com/youhodler-ceo-ilya-volkov-bridging-crypto-banks/</link>
+		
+		<dc:creator><![CDATA[Ann Maria Shibu]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 21:30:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=682619</guid>
+
+					<description><![CDATA[<p>In an exclusive interview, YouHodler's CEO, Ilya Volkov, reveals how his company thrives without external funding, explores upcoming crypto innovations, and addresses the evolving regulatory landscape.</p>
+<p>The post <a href="https://beincrypto.com/youhodler-ceo-ilya-volkov-bridging-crypto-banks/">Bridging Crypto and Traditional Finance: YouHodler CEO Ilya Volkov&#8217;s Vision for the Future</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>BeInCrypto had the opportunity to sit down with Ilya Volkov, CEO and co-founder of YouHodler, a Swiss and EU-based Crypto FinTech company. YouHodler gained recognition for its crypto lending, borrowing, and yield services, which cater to users looking to amplify their idle crypto holdings for various trading strategies.</strong></p>
+
+
+
+<p>During our conversation at the <a href="https://beincrypto.com/web3-banking-symposium-2025-digital-innovation/" target="_blank" rel="noreferrer noopener">Web3 Banking Symposium in Lugano</a>, Volkov shared his philosophy behind building a lean, self-sustaining company in the crypto space, as well as his thoughts on the future of blockchain and crypto’s role in traditional financial systems. From the challenges of integrating decentralized finance (DeFi) with legacy banking structures to how YouHodler is pushing the envelope with new technologies, this interview offers valuable insights into one of the industry&#8217;s most dynamic leaders.</p>
+
+
+
+<h5 class="wp-block-heading" id="h-ilya-volkov-on-building-youhodler-without-external-funding-how-personal-values-and-beliefs-shaped-the-journey"><strong>Ilya Volkov on Building YouHodler Without External Funding: How Personal Values and Beliefs Shaped the Journey</strong></h5>
+
+
+
+<p>It was always on my mind and the minds of my partners that we needed to use a lean approach. The benefit of this approach is actually very simple. If you focus on a lean approach, you focus on efficiency.</p>
+
+
+
+<p>That means you build products that will be welcomed by your customers, and customers will vote with money for your products. </p>
+
+
+
+<p>When you compare this approach to others in the space, especially between 2017–2018, the contrast is clear. Many companies raised large sums of money through ICOs, and while not all of them wasted or misused those funds, a significant number did. It was easy money and just as easy to spend.</p>
+
+
+
+<p>So the money was invested in questionable marketing channels and all sorts of influencers, and very rarely did money go to real product development.</p>
+
+
+
+<p>And again, the key thing is that many companies that raised a lot of easy funds were not focused on product development. They were focused on being proud of themselves, and that&#8217;s why many of them failed.</p>
+
+
+
+<p>Again, disclaimer, not all of them failed, but enough to make the point. So this is the benefit of running your company with a focus on efficiency and focus on the quality of your products.</p>
+
+
+
+<p>There are two downsides, actually. So the first one is that if, like, in a few months after the launch of your company, you have tens of millions of money raised through ICO or some VCs. Of course, you can immediately invest in everything, including marketing, which is very important. Marketing is very expensive in the digital area.</p>
+
+
+
+<p>Actually, it&#8217;s interesting that nowadays, digital channels are more expensive compared to traditional, offline channels, and smart companies who raised a lot of money got a big push in the beginning. I would not mention names, but I believe you know some good examples of companies that raised tens of millions through ICOs, and now they&#8217;re quite good, and they keep, keep working. I can only say bravo to them. So the first benefit for them is a quick good start.</p>
+
+
+
+<p>The second benefit of having external support, particularly when collaborating with top-tier VCs rather than through ICOs, is access to real expertise. When you work with highly professional, VC-focused businesses, you have some additional expertise. I can list a few VCs like a16z. They are very smart guys with their own focus on efficiency.</p>
+
+
+
+<p>So, if you work with professionals like them, you get the benefit of accessing a knowledge base and a good selection of market expertise. But of course, you can also lose your freedom.</p>
+
+
+
+<p>After years of hard work, I think we still have a chance to start working with some smart partners. But on another level, we are not a startup anymore. We are maybe more than scaled up. And yeah, we are open to working with smart, strategic investors. But again, the key benefit still is that you have your focus on the quality of products, and you have your focus on your customers who are paying money for real value, not just hype or empty tokens.</p>
+
+
+
+<h5 class="wp-block-heading" id="h-promising-crypto-technologies-and-youhodler-s-role-in-shaping-the-future-of-blockchain"><strong>Promising Crypto Technologies and YouHodler&#8217;s Role in Shaping the Future of Blockchain</strong></h5>
+
+
+
+<p>There are many different kinds of dimensions and different kinds of use cases in our space. So, investments in trading, payments, and stores of value, right? As for investments and trading, we focus on listing all valuable coins and tokens for buying, selling, lending/borrowing, and trading. Our market department is always keeping up with the markets, with all the trends.</p>
+
+
+
+<p>Of course, we have all the classics, and we are following with something new, like the most recent example is the TRUMP coin. We monitored closely what was happening on the market, and we released the Trump token within 24 hours after the announcement of Trump. We got a lot of appreciation from our customers because they were happy to trade with it.</p>
+
+
+
+<p>There are a lot of questions about the future of tokens like TRUMP, but anyway, it is something very interesting and very engaging for customers. So, strategically thinking, I believe that we will have not just cryptocurrencies on our platform but also some traditional assets in the mid-term future based on partnerships with other financial institutions.</p>
+
+
+
+<p>So, we are crypto native, but we are partnering with traditional institutions. And actually, the event – Web3 Banking Symposium in Lugano, where we’re speaking is a good illustration of collaborations, of crypto and traditional institutions. So, we will keep adding crypto and even some traditional instruments to the trading and investment part. This is number one; number two for our strategic focus is payments.</p>
+
+
+
+<p>We invest a lot in all wallet and payment infrastructure for applications. With us, you can get your dedicated bank account opened in your name inside the platform. Of course, we rely on our banking partners to provide the service. You can link your cards, Visa and MasterCard, you can easily top up and withdraw with just one click, and you have your money on your card, to pay your bills, buy groceries, and all those kinds of every-day things.</p>
+
+
+
+<p>We are at the final, I would say, stage of releasing our own card, a YouHodler branded card. To simplify the user experience even more, of course, we have all kinds of banking protocols integrated into the platform. We do all that in order to support a 360-degree approach for payment around crypto.</p>
+
+
+
+<p>Also, we are investing in some new features. And I&#8217;m so happy that we are one of the first members of the Universal Money Address (UMA) network built on Lightspark in Europe and Switzerland. This is an amazing feature. I can give you a few hints.</p>
+
+
+
+<p>Lightspark is a company that was created by tier-one entrepreneurs from companies like PayPal, and Facebook. David Marcos, Lightspark&#8217;s founder and CEO, is PayPal&#8217;s former president and Meta&#8217;s ex-Top Manager. He brought into Lightspark his expertise in building PayPal and Facebook’s payment solutions.</p>
+
+
+
+<p>Do you remember the famous story of Libra and Diem? They learned a lot from it. So, they launched Universal Money or UMA. This is similar to PayPal, but it&#8217;s the next level. It&#8217;s a simple, human-readable address, similar to email, but connected to any form of money &#8211; crypto or fiat. You can send any money and in a matter of seconds, your recipient will get his or her preferred currency.</p>
+
+
+
+<p>So, with us, you can use this address for crypto, any crypto, and Fiat. You can use Euro, Dollars, British pounds, and pesos. If you&#8217;d like to send money to someone else, you simply ask your mate about his or her address.</p>
+
+
+
+<p>And on your side, let&#8217;s say you sent Euro. But on their side, if they&#8217;re, let&#8217;s say, in the United States, they receive USD. And the beauty is that in the US, they can even receive it in USD, literally to their bank account in any bank in the United States.</p>
+
+
+
+<p>And it works with different countries. So we are taking care of Switzerland and the European Union, and other members of the network take care of other countries. We have partners in Argentina, the Philippines, and Turkey. </p>
+
+
+
+<p>When you send money, for instance euro on our side, it&#8217;s being converted instantly to Bitcoin. It&#8217;s being transferred using Bitcoin Lightning Network, and on the partner side, US, Argentina, whatever, it&#8217;s been converted to local currency immediately inside the platform.</p>
+
+
+
+<p>So you don&#8217;t need SWIFT or protocols, any other bank protocols. You don&#8217;t need any kind of other payment trails. You don&#8217;t even need stablecoins because Bitcoin is used as a payment rail here.</p>
+
+
+
+<p>And because of the Lightning network, it happens just in a matter of milliseconds and seconds. The average time for the transaction is three seconds. Sounds amazing, and we have it, and it works.</p>
+
+
+
+<p>We are now running some testing campaigns like we&#8217;re targeting, for example, communities of Filipinos working in Europe. Nowadays, they&#8217;re transferring money using Western Union, or Wise which is obviously expensive.</p>
+
+
+
+<p>We tell them, like, use us on the European side. Three seconds, a small commission, and that&#8217;s it. So this is just an illustration of how dedicated we are to the pushing of, you know, boundaries of the technology with again, a focus on key values for the end user.</p>
+
+
+
+<h5 class="wp-block-heading" id="h-youhodler-ceo-on-ripple-and-cross-border-payments"><strong>YouHodler CEO on Ripple and Cross Border Payments</strong></h5>
+
+
+
+<p>Back in 2016 or 2017, I was a big fan of Ripple’s idea. It was to challenge SWIFT, right, and I loved it. The question is, did they manage to challenge SWIFT after all these years? </p>
+
+
+
+<p>I don’t think so. Instead, we have stablecoins, Circle, and Tether, which are basically dealing with the same issue. We even have UMA targeting the idea of cross-border payments.</p>
+
+
+
+<p>Coming back to a question about our contribution to that point, we also actively participate in the development of the entire industry. </p>
+
+
+
+<p>The market is so big. Instead of competing and fighting with someone, it&#8217;s better to partner. And that&#8217;s why we are trying to bring together different companies, even from different sites. </p>
+
+
+
+<p>Three years ago, when I said I wanted to connect banks and crypto companies, people thought I was crazy. They told me it would never happen. But It’s happening now.</p>
+
+
+
+<h5 class="wp-block-heading" id="h-bridging-the-gap-between-web3-anonymity-and-traditional-finance-s-regulatory-demands"><strong>Bridging the Gap Between Web3 Anonymity and Traditional Finance&#8217;s Regulatory Demands</strong></h5>
+
+
+
+<p>There are two aspects. One is about anonymity and the oldest point of KYC and AML practices. Another is self-custody. Let&#8217;s touch base on both.</p>
+
+
+
+<p>So, as for KYC, I think when we speak about just common people, regular people, average people, like we are. It&#8217;s not a problem, actually. So I don&#8217;t see any issues.</p>
+
+
+
+<p>And we have, believe me, a huge experience with the KYC processes and tools. So we&#8217;re speaking about 1,000s of people coming every day. We don&#8217;t see any issues with the common people, as soon as you have really good UI, so if you have a good solution to upload and process your documents, to make selfies and all those kinds of things, it&#8217;s not a problem.</p>
+
+
+
+<p>The problem appears with bad actors who are trying to trick the system. And it&#8217;s not just about big fraud cases, but it&#8217;s also about some small frauds, like card fraud, for example. Believe me; there are a lot of fraud cases happening every day everywhere, like millions on the market with stolen cards, fake identities, and all these kinds of things.</p>
+
+
+
+<p>If you compare the value of protection and defense from fraud with the complexity of KYC. And if you look from the angle of the typical middle class, KYC is not a problem.</p>
+
+
+
+<p>But again, we should focus, and we&#8217;re focusing a lot on simplification of the UI/UX of our app. So, of course, there is another point connected to KYC and AML, which is taxes again.</p>
+
+
+
+<p>So it&#8217;s not just about Web3. People have always looked for ways to optimize taxes. If it’s done legally, no problem. If it&#8217;s done illegally, that&#8217;s not okay.</p>
+
+
+
+<p>And this is, again, not about the trick of crypto. This is about the situation in general. My point is that crypto is not a way to trick taxation, not at all. If anything, cash is still the easiest way to stay off the radar, right?</p>
+
+
+
+<p>My short answer is that anonymity is not a problem, actually, especially when you have polished user interfaces.</p>
+
+
+
+<p>When we speak about self-custody, it&#8217;s very interesting because our analysis shows that there are two big groups of users: someone who would like to manage keys and someone who would like to have someone taking care of it. Again, like with traditional banks, you&#8217;re relaxed because you know that if you forget your password, you can call customer support or visit the branch, and it will be fixed.</p>
+
+
+
+<p>So the same behavior we see on the crypto side, which is fine, so as soon as the service provider is trustworthy, it&#8217;s totally fine. That&#8217;s why it&#8217;s important to have regulated service providers who are serving you with these kinds of things. Not everyone in this world can take care of themselves, right? </p>
+
+
+
+<p>So that&#8217;s why centralized institutions are still needed, but of course, there are users who would like to manage their own assets themselves with noncustodial approach, which is totally fine, and actually, we&#8217;re following up with this approach. We started as a centralized institution.</p>
+
+
+
+<p>Now, we are integrating Web3 connectors and wallet connects. It&#8217;s not live on the platform yet, but it will be available soon, very soon. The idea here is very simple. We&#8217;d like to combine both sides.</p>
+
+
+
+<p>So, if you&#8217;d like to still use your ledger, hardware device, or even MetaMask, that&#8217;s fine, but at some point, you need to get a loan, or at some point, you need to convert your Bitcoin to local currency.</p>
+
+
+
+<p>We provide you with an easy plugin. Click the button, and you link your wallet to our application where you can pledge crypto and get a loan, or you can easily top up your Visa or MasterCard. So we are now testing the connector, and it&#8217;s quite promising and by that, I think we will satisfy both groups of people who don&#8217;t want to take care of their keys and people who&#8217;d like to manage keys by themselves.</p>
+
+
+
+<h5 class="wp-block-heading" id="h-youhodler-s-approach-to-balancing-crypto-anonymity-with-traditional-financial-regulations"><strong>YouHodler&#8217;s Approach to Balancing Crypto Anonymity with Traditional Financial Regulations</strong></h5>
+
+
+
+<p>I can go deeper because, actually, it&#8217;s a very interesting question, again. So, you know, it&#8217;s like you have always acted fast,  to stay compliant with all regulations In some cases, they&#8217;re professional. In some cases, they&#8217;re following different goals.</p>
+
+
+
+<p>Just to give you an idea, just in parallel, with our interview, there is a PwC keynote happening on the stage of the Web3 Banking Symposium , and they&#8217;re speaking now about CARF (Crypto-Asset Reporting Framework).</p>
+
+
+
+<p>It is a new crypto asset reporting standard that is going to be implemented in the European Union in 2026. So that means that, like, now we have to be compliant with <a href="https://beincrypto.com/learn/mica-guide/" target="_blank" rel="noreferrer noopener">MiCA regulation</a>, and we are at, like, final stages of dealing with MiCA and DORA, and now regulators dropped CARF, so you always have to invest a lot following up with this, all these kind of things. </p>
+
+
+
+<p>So, the short answer to your question is that it&#8217;s not about finding a perfect balance because you have always kept your systems up to date.</p>
+
+
+
+<p>We have our head office in Switzerland. We have several authorizations and licenses in the European Union. </p>
+
+
+
+<p>Also, we are fully committed to MiCA compliance and have invested a lot in this MiCA approach. Our European team is growing. We have some extensions, for example, we have our authorization in Argentina to work with Latin American markets. And, of course, we have some plans for other markets.</p>
+
+
+
+<p>Even with frameworks like MiCA, you still need to follow up with different regions, and we do that. And it&#8217;s not easy. But this is the reality, right?</p>
+
+
+
+<h5 class="wp-block-heading" id="h-how-increasing-blockchain-regulations-are-shaping-youhodler-s-future-and-the-crypto-industry"><strong>How Increasing Blockchain Regulations are Shaping YouHodler&#8217;s Future and the Crypto Industry</strong></h5>
+
+
+
+<p>In the morning, at the Symposium, I presented one slide with simple charts like the complexity of regulations and their importance for the economy. And we see that countries are trying to find their place there and trying to compete, compete with each other.</p>
+
+
+
+<p>Let&#8217;s take the US, as an example.</p>
+
+
+
+<p>A year ago, we saw an absolutively restrictive, crazy environment, with a lot of lawsuits. But, the financial sector, the financial technology sector, and the banking sector were always very important to the US.</p>
+
+
+
+<p>The Trump administration is trying to deregulate the industry to support the importance of the industry. But at the same time, the European Union decided to take a heavy approach to regulation with MiCA.</p>
+
+
+
+<p>So, I was saying that different regions and different countries are trying to find a way to regulate crypto. Some are trying to deregulate and simplify in order to increase value for the economy. Others are trying to regulate to defend end users heavily.</p>
+
+
+
+<p>We are in Switzerland, and Switzerland is always smart in finding a balance, and so far, it&#8217;s balanced, and I hope it will be balanced the same way in the future. </p>
+
+
+
+<p>Of course, maybe blockchain won’t go back to the way it was 10 years ago, the Wild West days of total freedom. But this is always how every industry evolves.</p>
+
+
+
+<p>Especially when we speak about financial markets. Can you name me any of the financial products without regulation? No, and it was always like that, like credit cards.</p>
+
+
+
+<p>You remember before, credit cards were based on paper slips. It was not really regulated, and that&#8217;s why they were a lot of fraud, right? Then regulation came in, fraud went down, and yet we still use cards today. It’s just the natural evolution of any major financial product. And that brings me back to my previous point.</p>
+
+
+
+<p>So when we speak about regular users, not bad actors, this is fine as soon as UI is good, but UI is going to be good just because we have a lot of side tools, even ChatGPT, we just mentioned, right? AI is helping to simplify interfaces. AI is helping to interact with different systems. </p>
+
+
+
+<p>Plus, I believe there is one that will have some digital identities. There will be no need to resubmit your KYC on every single platform. So, again, back to your question. Yes, it will not be the same as before, with no Wild West, but still, it will be quite fine for the absolute majority of users, and the companies will be focusing on the simplicity of UI.</p>
+
+
+
+<h5 class="wp-block-heading" id="h-ilya-volkov-discusses-how-crypto-is-transforming-traditional-finance-tradfi-and-what-the-future-holds"><strong>Ilya Volkov Discusses How Crypto is Transforming Traditional Finance (TradFi) and What the Future Holds</strong></h5>
+
+
+
+<p> As you can see, we already have a lot of traditional banks actively working in the crypto space. I just brought this example today on stage. At the last year&#8217;s Symposium was an example from one of the oldest state-owned Swiss banks, one of the Swiss Cantonal Banks, with around 200 years of history.</p>
+
+
+
+<p>They&#8217;ve decided to introduce crypto because they have two groups of customers, the wealthy traditional customers and the young and adventurous customers, and they said that wealthy traditional customers have already invested in everything.</p>
+
+
+
+<p>So they invested in gold, they invested in different kinds of commodities. They already bought Tesla stocks, Apple stocks, and Google stocks, all high-tech things, and now they&#8217;re demanding crypto because it&#8217;s clear that it&#8217;s the next step.</p>
+
+
+
+<p>And the bank told us that it was clear that had they not introduced crypto, they would have lost the traditional audience that had been banking with them for the last 200 years, </p>
+
+
+
+<p>On the other side, young customers.</p>
+
+
+
+<p>They were saying that it&#8217;s clear that if they do not offer their young customers crypto, they will simply not come. So this is the best explanation of why traditional institutions are joining the crypto space.</p>
+
+
+
+<p>One can say that it will increase competition for companies like us, but I would say no, because it brings more opportunities for partnerships. FinTech companies are always one step ahead, as we are exploring some new horizons, and we can create something new that is later on being adopted by traditional institutions. Such collaboration is absolutely fine.</p>
+
+
+
+<p>As I said, blockchain may not be the Wild Wild West anymore, but there will still be something new because companies like us are always working on pushing the boundaries. So, it&#8217;s a constant evolution process.<br></p>
+<p>The post <a href="https://beincrypto.com/youhodler-ceo-ilya-volkov-bridging-crypto-banks/">Bridging Crypto and Traditional Finance: YouHodler CEO Ilya Volkov&#8217;s Vision for the Future</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/image-20.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/image-20.png"/>	</item>
+		<item>
+		<title>Inside Gemini’s European Strategy: Mark Jennings Talks MiCA, Market Trends, and What’s Next</title>
+		<link>https://beincrypto.com/gemini-european-strategy-jennings-mica/</link>
+		
+		<dc:creator><![CDATA[Ann Maria Shibu]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=686009</guid>
+
+					<description><![CDATA[<p>At the Paris Blockchain Week 2025, Mark Jennings of Gemini discussed how the exchange's regulatory-first approach and commitment to security are positioning it for significant growth in Europe, driven by MiCA's implementation and a focus on customer education.</p>
+<p>The post <a href="https://beincrypto.com/gemini-european-strategy-jennings-mica/">Inside Gemini’s European Strategy: Mark Jennings Talks MiCA, Market Trends, and What’s Next</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>During the 2025 edition of the Paris Blockchain Week (PBS), BeInCrypto sat with Mark Jennings, Head of Europe at crypto exchange Gemini, for an in-depth conversation about the exchange’s regulatory-first strategy and its expanding European footprint. Gemini—founded by the Winklevoss twins—has spent the last decade cementing its reputation as a secure and compliant platform for digital assets.</strong></p>
+
+
+
+<p>With the implementation of MiCA in Europe and the company’s pending IPO, Jennings emphasized how regulatory clarity is paving the way for broader crypto adoption and Gemini’s next growth phase across the continent.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-how-gemini-sets-itself-apart-in-a-crowded-exchange-market">How Gemini Sets Itself Apart in a Crowded Exchange Market</h2>
+
+
+
+<p>If you look at it as a whole, Gemini was born in 2015 from the founders who saw the future around Bitcoin and were early investors there. The key that Gemini has looked at is “how do we secure longevity here?”. For our position, it&#8217;s always been “ask for permission”. So, we&#8217;ve always taken the regulatory route first in terms of establishing ourselves. If you look at the US, we were registered as a New York Trust and then you move into Europe, registered as a VASP in Ireland. We were the first to get that in Ireland. </p>
+
+
+
+<p>I think the key for us has been what is happening in Europe this year when we see MiCA being implemented. It gives us a secure platform to grow into Europe, certainty in the regulatory environment, and how we grow. That&#8217;s been at the core of what Gemini has done for the last 10 years, and we see that&#8217;s a key way for us to continue to build and grow. One is that we&#8217;re a trusted, safe, and secure platform for you to unwrap your fear, trade, and provide secure custody. For us, it&#8217;s key for our customers to be able to go on that journey with them and understand if there&#8217;s a secure regulatory infrastructure to do that. And now that there&#8217;s clarity in Europe, we’re going to continue to build and grow our businesses. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-crypto-regulation-in-europe-vs-the-us">Crypto Regulation in Europe vs. the US</h2>
+
+
+
+<p>&nbsp;In my role as head of Europe, I&#8217;m focused on what the European regulators are looking at and it&#8217;s a positive move to see MiCA come into effect at the end of last year.&nbsp;</p>
+
+
+
+<p>What <a href="https://beincrypto.com/gemini-new-cfo-potential-ipo/" target="_blank" rel="noreferrer noopener">I do see as positive</a> if you look to the US, a cryptocurrency stablecoin regulation is on the table for discussion; you know, we can&#8217;t manage different <a href="https://beincrypto.com/sec-drops-gemini-investigation/" target="_blank" rel="noreferrer noopener">regulatory environments</a> but we do see that there is a positive sentiment towards it. They&#8217;re looking to put a framework in place, and we see that as a positive for crypto as a whole. From my perspective, we can see that each regulator is now starting to address that. </p>
+
+
+
+<p>Also, we&#8217;re serving different customers, and so we work under the regulation here in Europe, but each ecosystem has a regulator that should <a href="https://beincrypto.com/trump-crypto-policy-gemini-kraken-ipos/" target="_blank" rel="noreferrer noopener">provide positive mechanisms</a>.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-user-experience-on-gemini">User Experience on Gemini</h2>
+
+
+
+<p>If you see our user experience within the app and within our ActiveTrader desktop functionality, we&#8217;re looking at a simple and secure UI ; so being able to see your assets, being able to fund your account very easily, being able to trade easily and knowing that you&#8217;ve got the security of Gemini&#8217;s customer platform behind it.&nbsp;</p>
+
+
+
+<p>For us, it&#8217;s a very clear UI and very clear action points for someone to be able to access the platform and Cryptopedia and other educational resources that we have because understanding the different tokens that are available and the different features is part of the journey. That&#8217;s also what Gemini wants to do: help with education.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-gemini-s-approach-to-platform-security">Gemini’s Approach to Platform Security</h2>
+
+
+
+<p>We&#8217;re talking about security from an insurance perspective, and understanding that our insurance infrastructure was built on a proprietary technology that was built at Gemini. I think that&#8217;s important for us to own that. We know how important that is for the ecosystem as a whole. For us, it’s been developed on our original New York Trust infrastructure. </p>
+
+
+
+<p>We&#8217;ve built and replicated that as part of our <a href="https://beincrypto.com/learn/mica-guide/" target="_blank" rel="noreferrer noopener">MiCA licensing</a>. So, we see that this really robust framework is what is underpinning the security there. If you look at the AML frameworks as part of our European regulation, it&#8217;s an important part for us to make sure that we know who our customers are, that we&#8217;re able to onboard them, and give them a really secure place to trade crypto. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-emerging-market-trends">Emerging Market Trends </h2>
+
+
+
+<p>I think there will be more mainstream adoption, understanding that crypto assets are now an accepted asset as part of somebody&#8217;s investment decision, and they&#8217;re looking at that. So, I think as that developed, the regulatory infrastructure has given people confidence. And from some of the statistics we&#8217;ve seen, that&#8217;s one of the biggest barriers to entry. </p>
+
+
+
+<p>People have been uncertain about the regulatory infrastructure and where people sit. So now that we see that barrier being clearly set in the sand, people can start to engage more with crypto assets in general.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-is-crypto-losing-its-edge-or-gaining-maturity">Is Crypto Losing Its Edge or Gaining Maturity?</h2>
+
+
+
+<p>I wouldn’t say cryptos are becoming boring [laughs]. What we&#8217;re seeing is that there&#8217;s a maturation of the market, and the market goes in that direction. And then people are making investment decisions. Institutions are also involved there; if you look at the synergies between markets, where there are more players within that market, it changes the market’s characteristics as a whole. I don&#8217;t think cryptos are ever going to be boring.</p>
+
+
+
+<p>If you see what&#8217;s happening—the underlying technologies being built, the different networks that are there, the increasing pass-through, the increase in the transaction process—I don&#8217;t find any of that boring. I think it&#8217;s really exciting.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-gemini-and-defi">Gemini and DeFi </h2>
+
+
+
+<p>We&#8217;re not really in the DeFi space. We&#8217;re continuing to build our on-chain products, but at the moment there&#8217;s nothing in the <a href="https://beincrypto.com/learn/cefi-vs-defi/" target="_blank" rel="noreferrer noopener">DeFi space specifically.</a> I think it&#8217;s an area of ​​innovation that we&#8217;re continuing to see grow. Gemini, at its core, is an exchange and a custodian, and I think that&#8217;s what we&#8217;ll play going forward. But the on-chain team is definitely building and growing. We&#8217;ll see if anything comes to that. </p>
+
+
+
+<p>I think we&#8217;re focused on our core strengths. I think that&#8217;s the area where we continue to build and grow. If you look at it, every player in the market is looking to build in a different fashion and solve a different problem. For us, we&#8217;re there as one of the largest exchanges. We want to continue to facilitate that. So I wouldn&#8217;t say that.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-profile-of-gemini-s-clientele">The Profile of Gemini’s Clientele</h2>
+
+
+
+<p>I think we’ve got a broad client base. We serve retail customers and institutional customers the same. I think we&#8217;re engaged with people who value the <a href="https://beincrypto.com/gemini-exchange-bankruptcy-scam-phishing/" target="_blank" rel="noreferrer noopener">safety and security aspects</a> of what we do. The fact that we took that regulatory viewpoint very early on resonates with a lot of customers. </p>
+
+
+
+<p>I think we&#8217;ve built a product that we feel is fit for the environment, and we see customers come to us for that. I don&#8217;t know if we’ve targeted customers directly. We&#8217;ve built what we think is the best product for customers who want it.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-strategy-to-recruit-new-customers">Strategy to Recruit New Customers</h2>
+
+
+
+<p>&nbsp;Education is one thing. Giving people an understanding of what we can bring to them, whether it&#8217;s safety and security of custody, the ability to trade, the ability to fund. I think education is key.</p>
+
+
+
+<p>The second piece is the simplification of the process. How do we help them along that journey, from onboarding with us, to being able to fund their account, to being able to use these assets ? That&#8217;s key. We want to make sure it&#8217;s simple and straightforward and that they understand what&#8217;s there.&nbsp;</p>
+
+
+
+<p>And the third piece would be to continue to innovate. The crypto space moves very quickly. We want to leverage those technologies to help improve the process and be able to allow people to engage with the crypto ecosystem using the Gemini platform.&nbsp;</p>
+
+
+
+<p>These are the three pillars I see.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-gemini-s-vision-for-growth">Gemini’s Vision for Growth </h2>
+
+
+
+<p>In my role as Head of Europe, the regular landscape has been key. We&#8217;re really looking to build our business in Europe. We want to provide a product that can engage all 32 countries that are under the EEA umbrella. </p>
+
+
+
+<p>For us, it&#8217;s about a very simple and clean UI, getting people very clear access to the platform, and being able to cater to their needs, whether it&#8217;s from a funding perspective or from a trading perspective. Keep evolving our products. We get feedback from our customers; we want to continue to evolve on that.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-expectations-from-paris-blockchain-week">Expectations from Paris Blockchain Week</h2>
+
+
+
+<p>There are a number of our partners and competitors here. Being involved in the ecosystem, you understand what people are working on, what startups are doing, and how they&#8217;re trying to solve some of our problems. I&#8217;m here to meet as many people as I can and learn. In this space as a whole, learning is the number one tool.</p>
+
+
+
+<p>The second thing is to make people aware of Gemini and our plans in Europe to continue to grow the business. There are so many great businesses I want to know more about. If I get time throughout the day, I will certainly do. But I also want to make sure people see the Gemini team and that you get to speak to us face to face. We want to learn more, we love getting feedback, and we want to be able to adapt on that.<br></p>
+
+
+
+<p><span id="docs-internal-guid-1a7f325b-7fff-789a-cfc0-1dfeb26ac533"><div><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline;"></span></div></span><br><br><br>
+<p>The post <a href="https://beincrypto.com/gemini-european-strategy-jennings-mica/">Inside Gemini’s European Strategy: Mark Jennings Talks MiCA, Market Trends, and What’s Next</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/image-50-2.png" medium="image" width="720" height="405" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/image-50-2.png"/>	</item>
+		<item>
+		<title>Crypto Finance&#8217;s Alessandro Fuser on Why TradFi Can No Longer Ignore Crypto</title>
+		<link>https://beincrypto.com/crypto-finance-fuser-tradfi-crypto/</link>
+		
+		<dc:creator><![CDATA[Ann Maria Shibu]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 17:30:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=685777</guid>
+
+					<description><![CDATA[<p>Crypto Finance's Alessandro Fuser talks about how tradfi institutions embrace crypto, guided by evolving regulations and partnerships.</p>
+<p>The post <a href="https://beincrypto.com/crypto-finance-fuser-tradfi-crypto/">Crypto Finance&#8217;s Alessandro Fuser on Why TradFi Can No Longer Ignore Crypto</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>As crypto continues its transformation from fringe curiosity to legitimate asset class, traditional financial institutions are no longer sitting on the sidelines. In a candid conversation, Alessandro Fuser, Head of Sales at Crypto Finance, a firm enabling banks to navigate the digital asset world, unpacks how regulation, especially across Europe, is finally catching up with innovation.</strong></p>
+
+
+
+<p>Fuser breaks down how institutions are shifting from hesitation to action, the role of trust in this transition, and why the &#8220;start small but start now&#8221; approach is key to success. From the fallout of recent hacks to the promise of deeper liquidity access and the landmark partnership with Clearstream, this conversation maps out the evolving role of crypto infrastructure in mainstream finance.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-fuser-on-crypto-finance-bridging-tradfi-and-crypto">Fuser on Crypto Finance Bridging TradFi and Crypto</h2>
+
+
+
+<p>At the end of the day, Crypto Finance provides market infrastructures to enable banks that are interested in crypto services to launch in a compliant and secured manner <a href="https://beincrypto.com/learn/best-crypto-trading-platforms-canada/" target="_blank" rel="noreferrer noopener">services across trading</a>, custody, and post-trade settlements. My role as the head of sales is to enable them to go through this kind of journey in the safest way possible. With all the questions that, at the end of the day, different teams will have and ultimately create that level of familiarity that is needed for the traditional financial space to embrace new asset classes like crypto</p>
+
+
+
+<p>Trust is important. Generally, there’s a difficulty in finding trust when there aren’t answers. The answers, especially now in 2025, obviously exist. The regulatory market is only now catching up in areas such as <a href="https://beincrypto.com/learn/token-economy/" target="_blank" rel="noreferrer noopener">the European Union</a>. So, a lot of what we do, especially as someone who’s been in Switzerland, working with Swiss banks that are alive in the space, is to provide visibility to other entrances as to how companies that they compare themselves to have done things. Phased approaches, starting in a conservative manner and only over time, add more complexity and more sophistication to the services so that they don’t have any reputational risks. They can take advantage of the opportunities of crypto as an asset class. And provide a service to their customers that is of the quality that they expect. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-shifting-attitudes-and-regulations-in-2025">Shifting Attitudes and Regulations in 2025</h2>
+
+
+
+<p>I think the biggest difference is that despite everyone knowing that <a href="https://beincrypto.com/learn/uk-crypto-regulation/" target="_blank" rel="noreferrer noopener">regulation in Europe is coming</a>, the regulation is now here. On the back of this, a lot of different banks are formalizing projects, which up to that point they were not and only through experience do they effectively know what should and should not be done. </p>
+
+
+
+<p>The speed at which a lot of these projects are now being formalized is obviously faster, mainly on the back of the elections and, to an extent, on the back of increased competitiveness that will exist with the United States now being more open to crypto as an asset class. So I think this is an important one. At the time I had talked about a degree of fragmentation in the market, when it came to custody, when it came to liquidity. </p>
+
+
+
+<p>I think there are a number of initiatives that are ultimately making the landscape more efficient. Some of these initiatives are happening at a crypto-native level. I think about off-exchange services, which reduce your counterpart and your risk on the custody side and allow you to have exposure to markets. But this is also true on the custodial front, with companies such as Clearstream, for example, which is a traditional ICSD offering the new asset class without reinventing the wheel, simply allowing banks that they connected to leverage the connectivity and unlock the asset class. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-crypto-s-agility-vs-tradfi-s-caution-finding-common-ground">Crypto’s Agility vs. TradFi’s Caution: Finding Common Ground</h2>
+
+
+
+<p>I like the juxtaposition. I don’t think that the two approaches are mutually exclusive. You have a secure compliant setup that isn’t necessarily boring or excessively conservative to make you lose the opportunity. And that’s potentially where, within a protective environment, it makes sense to experiment and “break things,” to use your words. Now, Crypto Finance, specifically being a regulated entity, obviously has more constraints. Having said this, what we do is to continue being innovative by partnering with all sorts of players in the market to reinforce our service offering, to future-proof our service offering without compromising at the end of the day the reputation and especially the status quo. </p>
+
+
+
+<p>I would like to mention one thing, though: our experience is mainly revolving around regulated clientele and what we always advise is ‘start small, start simply, but do start’. And I think this is what has been missing in the past. The lack of certainty around certain things of even the complexity around launching a new offering, was oftentimes preventing the regulating intermediaries from getting into the space in the first place, which then resulted in a harder consumer protection because service providers were instead coming from a completely different angle. </p>
+
+
+
+<p>So a lot of what we do now is that we try to push to get started with simple, close-look trading and custody, allow the banks, allow the product issuers to start accumulating experience with, for example, on the product issuer’s side a single token in ETP. This is not going to be the most revolutionary thing but it allows you to understand flows, and then add complexity, adding staking and over time potentially borrowing and lending.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-adapting-to-the-pace-of-traditional-finance">Adapting to the Pace of Traditional Finance</h2>
+
+
+
+<p>To an extent, I believe that the decision making is still very much low in the regulated traditional financial space. At the same time, I have seen projects in the crypto space being formalized and enacted or executed at a pace that is significantly faster compared to potentially other asset classes in the past. And the reason is two folds: the market, I think, has validated the crypto asset class sufficiently. The competitiveness of, say retail brokers, neo-banks, <a href="https://beincrypto.com/learn/bybit-crypto-alternatives-france/" target="_blank" rel="noreferrer noopener">crypto exchanges</a> is obviously to an extent a threat to some of the traditional players, especially retail banks for example. </p>
+
+
+
+<p>There have been outflows for the past couple years, which for some have hurt, but more importantly, the growth or the rate at which those outflows are happening is something that is raising the alarm here and there. So, the banks, because of this, are acting ; they’re making sure that they have the right amount of knowledge, the right amount of talent in house, and they’re starting somewhere. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-neo-banks-vs-traditional-banks-a-shift-in-custody-models">Neo-Banks vs Traditional Banks: A Shift in Custody Models</h2>
+
+
+
+<p>I think there is a degree of disruption happening for sure. Also, the underlined service is being packaged differently but the substance isn’t really too different. I would also argue that some of the &#8211; let me use the word &#8211; “sexier” neo-banks, for example, of financial institutions that are offering cash account and investment products, oftentimes are very good at showing specific sides and not showing others. There is the general perception that traditional banking is more expensive. </p>
+
+
+
+<p>Of course, broadly speaking, this is probably true, if you think about the infrastructure that they have to support, but today, even crypto exchanges cycle between buying crypto assets, storing those assets, selling them and especially FX ; it’s still generating significant fees. The customers aren’t probably realising it and again, it’s an exotic market. It’s not commoditized just yet, so it is normal for there to be fees that are probably higher than a security that has been around for decades. Nonetheless, it is an attention economy and I think the TradFi is also paying attention. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-managing-security-concerns-after-major-exchange-hacks">Managing Security Concerns After Major Exchange Hacks</h2>
+
+
+
+<p>It always raises eyebrows. It was obviously very unfortunate that this hack occurred. Without commenting too specifically on the matter, I think it was also managed in a way that showed maturity compared to, for example, other scandals in the past, whether it was with Terra Luna depegging, whether it was the FTX scandal. I think the market is now reacting less negatively. Of course, a bank or an asset manager with potentially trillions of assets has to go through the process of unlocking access to an asset class whilst maintaining the same level of risks standards, compliance standards and also technological security standards. </p>
+
+
+
+<p>It is in some ways a positive, because it allows, or it triggers the right kind of questions and I don’t believe that there is a “trust issue” in the market because today, in 2025 &#8211; and I could argue this is true already of last year &#8211; there are institutional grade solutions which are as bullet-proof as they can realistically be. </p>
+
+
+
+<p>What we do, specifically speaking to Crypto Finance, is making sure &#8211; we’re a regulated entity, so we have standards to maintain &#8211; that we always innovate without ultimately sidelining the core, which is security. Crypto introduces a complexity, the finality of transactions is obviously something very different compared to traditional capital markets. Private key management is something that is new to many, and we just make sure that we can keep that as sophisticated without over-engineering things. We stick with battle-tested technology, that’s generally where the market is also.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-how-bybit-differentiated-itself-from-ftx">How Bybit Differentiated Itself from FTX</h2>
+
+
+
+<p>What is also fascinating is that what happened with Bybit is very different from what happened in the past. There was a lot more support from the community. Obviously, there was an issue with the technology. It was unfortunate that there was an attack in the first place, but I think the market as a whole showed this kind of concept that “we’re all in this together’. Now, something to keep in mind as well : a crypto exchange has a different starting point compared to other service providers, which are natively tailored to financial institutions. </p>
+
+
+
+<p>Exchanges started early, they started mainly with the retail type of clientele and over the years, as they became more successful, had to invest and became more sophisticated, more secure, more licensed, so on and so forth, but I think that it will still take time to reach a level of security that is ultimately sufficient for some of the larger traditional financial institutions. It could also be that they will never get there, but that is why companies like Crypto Finance and some of its rivals exist in the first place ; to act as a regulated counterparty between the market and between the client.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-future-partnerships-in-the-pipeline">Future Partnerships in the Pipeline</h2>
+
+
+
+<p>Companies like ourselves, other regulated brokers &#8211; a couple already have <a href="https://beincrypto.com/learn/mica-guide/" target="_blank" rel="noreferrer noopener">MiCA licences including ourselves</a> &#8211; already have and have had for many, many years relationships with the market. This normally comes in the form of &#8211; and the reason behind this is generally tied to token availability, we need to make sure we can source liquidity from different sources, also from a purely availability or disaster recovery process, or rather business continuity. </p>
+
+
+
+<p>There’s nothing necessarily new and I think what brokers like ourselves will continue doing is grow their relationship with the market in a way that doesn’t expose the clientele to the market directly. Because then the value chain does become, to an extent, weaker, let’s say it this way. What I am seeing, though, is a very rapid growth in the opposite direction, where you have crypto exchanges and other types of retail native venues which are becoming more sophisticated.</p>
+
+
+
+<p>As the existing distribution channels in today’s market become more involved in the asset class, they are the ones that already possess a relationship with the end customers. So it is unlikely for the end customers to abandon these rails outside of an early majority and the maximalists which, of course, the market has now been dominated by over the past couple years. So, there is an incentive for the market to be, instead, rooting its flow to these new distribution actors, such as the banks, and use them as aggregators. </p>
+
+
+
+<p>All of a sudden there’s a shift from a direct relationship between a customer &#8211; end customer, a private customer &#8211; and the exchange to the bank. It allows exchanges to continue receiving flows but it also allows the final consumer to be significantly more protected, just because of the nature of the bank that is not something in between.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-what-s-in-store-for-q2">What&#8217;s in Store for Q2?</h2>
+
+
+
+<p>Yes, there will be exciting announcements in Q2. But I wouldn’t be doing my job if I didn’t also bring attention to something that is very important, which is the partnership between Clearstream and Crypto Finance. As you know, we’re both owned by Deutsche Börse Group, and I believe this is the first time that, at scale, we have seen an international central securities depository and global custodian effectively unlock access to all of its clients with zero project cost, with Crypto Finance simply as the additional self-custodian link. </p>
+
+
+
+<p>This is as far as my world is concerned. I do expect the market to be very positively reacting to, say, the new stablecoin regulation coming over in the United States. I think all eyes are going to be on the US this year. If the first few banks come in if more products get approved, all of a sudden, Europe will have to change speed. Europe is already doing a good job but I think they’ll have to step it up even more, and I’m looking forward to more competitiveness in the market. </p>
+<p>The post <a href="https://beincrypto.com/crypto-finance-fuser-tradfi-crypto/">Crypto Finance&#8217;s Alessandro Fuser on Why TradFi Can No Longer Ignore Crypto</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/Alessandro-Fuser-.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/Alessandro-Fuser-.png"/>	</item>
+		<item>
+		<title>Storm Partners’ Sheraz Ahmed Talks Crypto, AI, and the Future of Finance</title>
+		<link>https://beincrypto.com/storm-partners-sheraz-ahmed-crypto-ai-blockchain/</link>
+		
+		<dc:creator><![CDATA[Ann Maria Shibu]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=685605</guid>
+
+					<description><![CDATA[<p>Sheraz Ahmed of Storm Partners highlights the growing integration of decentralized and traditional finance, addressing blockchain's trust-building role and the challenges faced by banks. His firm’s LightningBox aims to streamline Web3 adoption for institutions.</p>
+<p>The post <a href="https://beincrypto.com/storm-partners-sheraz-ahmed-crypto-ai-blockchain/">Storm Partners’ Sheraz Ahmed Talks Crypto, AI, and the Future of Finance</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>As the crypto market continues to evolve at breakneck speed, bridging the gap between decentralized finance (DeFi) and traditional finance (TradFi) has become one of the industry&#8217;s defining challenges—and opportunities. Sheraz Ahmed, Managing Partner at Storm Partners, has had a front-row seat to this transformation.</strong></p>
+
+
+
+<p>In a recent interview with BeInCrypto, Ahmed reflected on nearly a decade in the space, noting a fundamental shift in perception: what was once dismissed as an abstract experiment is now being taken seriously by major institutions. According to Ahmed, the growing digitalization of daily life and increasing concerns around centralized data control have driven trust toward blockchain solutions.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-sheraz-ahmed-on-the-evolving-relationship-between-defi-and-tradfi">Sheraz Ahmed on the Evolving Relationship Between DeFi and TradFi</h2>
+
+
+
+<p>The journey has been extensive. Having been in this industry for nearly a decade now, I can tell you that there’s been a profound shift. Initially, people dismissed crypto as an abstract concept—some &#8220;digital gold&#8221; without backing or value. Traditional financial institutions believed that to gain trust, you needed a banking license with significant capital. The notion that a purely digital solution could work seemed unfathomable. But over time, this perception has changed.</p>
+
+
+
+<p>Why? The answer lies in the growing digitalization of our world. Today, more people spend hours online every day, which directly correlates with the trust and value they place on digital systems. This digital evolution has led to greater acceptance of digital payments, as they’re now seen as natural. Services like Revolut have shown that instant money transfers are not only possible but widely trusted.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-rise-of-blockchain-solutions">The Rise of Blockchain Solutions</h2>
+
+
+
+<p><a href="https://beincrypto.com/learn/blockchain-explained/" target="_blank" rel="noreferrer noopener">Blockchain offers transparency</a>, speed, and security. As people started realizing that centralized platforms were monetizing their data without proper consent, there was a demand for more privacy-focused, transparent alternatives. </p>
+
+
+
+<p>Blockchain technology emerged as a solution, offering a decentralized, immutable ledger that people could trust. This, combined with the speed of transactions and transparency of the system, made it a natural choice for many users.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-storm-partners-role-in-blockchain-innovation">Storm Partners&#8217; Role in Blockchain Innovation</h2>
+
+
+
+<p>Trust has always been our foundation. When we started Storm Partners, the goal was to bring together experts from various fields—lawyers, marketers, finance professionals—to provide a trusted service in an industry that was rife with scams and uncertainty. The biggest growth we&#8217;ve seen is in the <a href="https://beincrypto.com/why-is-the-crypto-market-up-today/" target="_blank" rel="noreferrer noopener">consolidation of the crypto market</a>. More cryptocurrencies exist today than publicly traded stocks, and while many are for fun, some projects face significant gaps in expertise or complementary technologies.</p>
+
+
+
+<p>For example, the <a href="https://beincrypto.com/fet-agix-ocean-asi-token-merger-delay/" target="_blank" rel="noreferrer noopener">merger of SingularityNet, Fetch.ai, and Ocean</a> is a perfect illustration of this trend. These projects were working on complementary technologies—AI and blockchain—but from different angles. By coming together, they can offer a more complete solution, combining data management (blockchain) and data creation (AI) to power decentralized, AI-driven systems.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-ai-and-blockchain-the-next-frontier">AI and Blockchain: The Next Frontier</h2>
+
+
+
+<p>AI is a central component, especially now that large organizations are heavily investing in it. It’s becoming like the internet—something so embedded in every project that it’s no longer necessary to highlight it. Blockchain and AI are complementary. While blockchain manages the data, AI generates it. </p>
+
+
+
+<p>And when you combine these two technologies, you can create powerful decentralized systems. The best projects today are those that <a href="https://beincrypto.com/learn/ai-trading-bots-bitget-guide/" target="_blank" rel="noreferrer noopener">leverage AI from day one</a> to generate value and move quickly to market.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-challenges-for-traditional-institutions-adopting-crypto">Challenges for Traditional Institutions Adopting Crypto</h2>
+
+
+
+<p>The biggest hurdles are regulatory concerns and cybersecurity risks. After the 2008 financial crisis, regulatory frameworks became stricter, and these regulations have only intensified in the digital age. Many institutions are hesitant to adopt crypto for fear of regulatory fines. </p>
+
+
+
+<p>Furthermore, cybersecurity remains a concern. Recent hacks, <a href="https://beincrypto.com/learn/bybit-hack-explained/" target="_blank" rel="noreferrer noopener">such as the Bybit hack</a>, highlighted vulnerabilities in third-party providers. Banks, in particular, are reluctant to custody crypto because they fear the risks and liabilities involved.</p>
+
+
+
+<p>It’s a tough situation for banks. They want to offer crypto services, but the risk management, custody, and regulatory issues make it complicated. The reality is, crypto was never designed to be custodied by banks. People have the option to hold crypto directly and use it for cross-border transactions, while keeping their fiat in more traditional banking systems for safety.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-future-of-blockchain-and-finance">The Future of Blockchain and Finance</h2>
+
+
+
+<p>The future of crypto is about striking that balance. It doesn’t have to be an all-or-nothing approach. By integrating crypto with traditional finance in a hybrid model, we can achieve a system that combines the strengths of both worlds.</p>
+
+
+
+<p>So, how can Storm Partners help bridge this gap and support institutions and new companies? Well, we’ve developed a new corporate innovation sandbox called LightningBox, which essentially aggregates Web3 tools and providers into three distinct layers. The first layer is service providers, such as cybersecurity companies like Hacker or legal firms like Valdives. This layer focuses on writing services.</p>
+
+
+
+<p>The second layer consists of infrastructure providers—companies that offer tools like custody solutions, payment solutions, and compliance tools such as Chainalysis that provide Know-Your-Transaction (KYT) services.</p>
+
+
+
+<p>The third layer is the actual blockchain technology itself—the backbone of the system. These three components work together to create a Web3 application. By combining them, we’ve built a sandbox environment where we welcome luxury, finance, and impact organizations to come in and interact with the full composability stack in one place.</p>
+
+
+
+<p>In the real world, a bank or institution would struggle to connect with all these providers separately—it would take too much time, and many organizations simply don’t have the resources. Plus, the costs involved are high and there’s no economy of scale. But by aggregating all of them in one place, we’ve made it easier to create proof of concepts and minimum viable products (MVPs) quickly.</p>
+
+
+
+<p>With minimal resources, companies can market-test these concepts, determine if they’re valuable, and present them to their board. If the board approves, the next step is to secure funding—whether it’s $1 million or $10 million—to develop the product for mass adoption. LightningBox is designed to make that process faster, easier, and more cost-effective.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-what-to-expect-from-storm-partners-in-the-near-future">What to Expect From Storm Partners in the Near Future?</h2>
+
+
+
+<p>There are always exciting things ahead. In the second quarter, we’re expecting major M&amp;A announcements from clients we’ve been working with. Additionally, we’re looking at potential acquisitions ourselves, which is a very interesting development.</p>
+
+
+
+<p>We’re also planning an exciting expansion into new regions, particularly into the GCC area, focusing on a country that’s not widely known today but has a growing reputation for its crypto regulation. This expansion will be a strong entry point into the Arab world, and we’re really excited to announce it in Q2.</p>
+
+
+
+<p>Beyond that, we have more exciting projects coming from our clients, though some details are confidential. I strongly believe that 2025 will be a great year for the industry. A lot of organizations are bullish on 2025, and they’ve been setting aside budgets for that year. There’s a lot of potential for growth, and I’m eager to see what initiatives will come forward as companies start deploying their funds.</p>
+
+
+
+<p>We also anticipate some fantastic projects emerging from LightningBox, and we’ll be announcing some of them at our Corporate Innovation Day in Decentral House in Daytime. It’s going to be an exciting event, with some incredible enterprise-level announcements. I hope to see you there! It will be a great opportunity to learn more about the work we’re doing and see firsthand what’s coming next.<span id="docs-internal-guid-4a5daf01-7fff-a5c5-0316-d2a663401b1f"><div><span style="font-size: 12pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline;"></span><span style="font-size: 12pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline;"></span></div></span>
+<p>The post <a href="https://beincrypto.com/storm-partners-sheraz-ahmed-crypto-ai-blockchain/">Storm Partners’ Sheraz Ahmed Talks Crypto, AI, and the Future of Finance</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/Sheraz-Ahmed.jpg" medium="image" width="1920" height="1080" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/Sheraz-Ahmed.jpg"/>	</item>
+		<item>
+		<title>THORWallet CEO Marcel Harmann on DeFi: &#8220;Crypto Finance Will Overtake Traditional Finance&#8221;</title>
+		<link>https://beincrypto.com/thorwallet-ceo-on-defi-crypto-finance/</link>
+		
+		<dc:creator><![CDATA[Ann Maria Shibu]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 22:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=685117</guid>
+
+					<description><![CDATA[<p>Marcel Harmann shares his vision of DeFi’s future, emphasizing THORWallet’s role in blending decentralized and traditional finance while expressing concerns about the rise of CBDCs. He believes crypto's blockchain technology will eventually surpass traditional finance.</p>
+<p>The post <a href="https://beincrypto.com/thorwallet-ceo-on-defi-crypto-finance/">THORWallet CEO Marcel Harmann on DeFi: &#8220;Crypto Finance Will Overtake Traditional Finance&#8221;</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>In an interview with BeInCrypto, Marcel Robert Harmann, the Founder and CEO of THORWallet, shares his journey from the early days of crypto to building a successful wallet. Despite the noise created by trends like meme coins and NFTs, Harmann&#8217;s belief in the transformative potential of decentralized finance (DeFi) remains steadfast, even as the industry faces challenges with regulation and reputation.</strong></p>
+
+
+
+<p>Harmann also delves into the complex relationship between crypto and traditional finance, particularly when it comes to regulation, privacy, and the future of financial services. He discusses how THORWallet is bridging the gap between DeFi and CeFi, offering users a seamless experience while adhering to the core principles of decentralization and transparency. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-reflecting-on-crypto-journey-how-marcel-harmann-s-view-of-the-crypto-industry-has-evolved">Reflecting on Crypto Journey: How Marcel Harmann&#8217;s View of the Crypto Industry Has Evolved </h2>
+
+
+
+<p>Those early days were definitely tough in terms of the hours worked, but looking back, it was all worth it. It was hard work, but it didn’t feel like a burden—I was driven to achieve and to build. </p>
+
+
+
+<p>Four years later, we’re still here, profitable and growing. The average lifespan of a crypto startup is usually less than 12 months, so we’ve managed to defy the odds.</p>
+
+
+
+<p>My view on crypto has remained the same. The industry still excites me, but I think you really need to cut through the noise. There’s a lot of distraction, like the NFT hype, which has lost value over time except for a few select projects. Then, there are <a href="https://beincrypto.com/learn/base-chain-meme-coins/" target="_blank" rel="noreferrer noopener">meme coins—just noise</a>. </p>
+
+
+
+<p>They&#8217;re mostly money grabs for people who don’t fully understand the mechanics behind them. With any fast-growing market, especially one involving large amounts of money, scams are inevitable. It’s just part of the industry.</p>
+
+
+
+<p>The key is to stay focused, stick to your core principles, and not get distracted by the noise. Crypto, in my view, is still a paradigm shift, particularly for the financial industry, and my belief in its potential hasn’t changed.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-views-on-the-balance-between-regulation-criminality-and-reputation-in-crypto">Views on the Balance Between Regulation, Criminality, and Reputation in Crypto</h2>
+
+
+
+<p>I believe that proper regulation is essential, but it needs to be implemented in the right way and at the right time. For example, MiCA (the Markets in Crypto-Assets Regulation) isn&#8217;t inherently bad. However, recently, we’ve seen instances of over-regulation, even in Switzerland. </p>
+
+
+
+<p>Switzerland is traditionally less regulated than the EU, but even here, we’ve seen regulatory overreach, particularly concerning stablecoins. This led to pushback from the industry, and after a lot of pressure and education towards regulators, the regulations were softened, which is a positive outcome.</p>
+
+
+
+<p>In essence, good regulation is beneficial, but over-regulation can stifle innovation. Currently, the first part of crypto, like MiCA, is regulated, and <a href="https://beincrypto.com/learn/top-defi-protocols/" target="_blank" rel="noreferrer noopener">DeFi (decentralized finance)</a> is still in the process of being addressed. In my opinion, true DeFi protocols don’t necessarily need regulation. </p>
+
+
+
+<p>However, regulators must verify if protocols are genuinely decentralized to protect users. They need to ensure that users are engaging with a non-custodial, decentralized technology and not a protocol with a centralized team behind the scenes that could tamper with the code—like in the case of a rug pull, where access to the admin key could allow manipulation.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-risks-to-retail-investors">Risks to Retail Investors</h3>
+
+
+
+<p>Some protocols claim to be decentralized but aren&#8217;t truly so, which poses a risk to retail investors. Regulators must assess whether DeFi protocols are genuinely decentralized. If they are and are built on a blockchain like Ethereum, they cannot shut down as long as the blockchain exists. </p>
+
+
+
+<p>However, when users move assets from DeFi to traditional finance, regulators need to oversee the on- and off-ramp processes. The blockchain ensures full transparency, making it possible to trace the origin of funds and verify they are not involved in illicit activity.</p>
+
+
+
+<p>So, I’m comfortable with where we’re heading in terms of regulation as long as it’s done the right way. But I do worry, particularly about the European Union, either not fully understanding the technology or, in some cases, deliberately trying to undermine DeFi altogether.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-how-recent-crypto-trends-like-bitcoin-etfs-and-meme-coin-cycles-have-shaped-blockchain-adoption">How Recent Crypto Trends, Like Bitcoin ETFs and Meme Coin Cycles, Have Shaped Blockchain Adoption</h2>
+
+
+
+<p>These cycles are overall more net positive. For example, Bitcoin ETFs bring institutional adoption, offering a stamp of approval from larger companies that say, “Yes, Bitcoin is here to stay” as an asset class. </p>
+
+
+
+<p>This is a good thing overall. However, with meme coins and NFTs, it’s harder to say whether they’re net positive or not. While they attract a lot of new users, a lot of money is extracted from those who believe they can get rich quickly, but in the end, it’s just like a casino—where the house always wins.</p>
+
+
+
+<p>Personally, I don’t focus on these trends. They will bring in more users, sure, but those who enter crypto and end up buying things like Trump coin, for example, often leave with a bad taste. They may not return for years. </p>
+
+
+
+<p>It’s like when people first connected to the internet and got viruses from downloading an MP3. They were so burned by the experience that they didn’t touch the internet again for a while. Eventually, though, they came back once they understood it better. </p>
+
+
+
+<p>The same will happen with crypto—people may be burned, but they will return when they understand the real value.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-defi-vs-cefi">DeFi vs. CeFi</h3>
+
+
+
+<p>That being said, I believe there are genuine projects building a truly decentralized financial system that will exist alongside the traditional financial system. Projects like Compound and the first wave of DeFi protocols were the first iteration to showcase true financial innovation. </p>
+
+
+
+<p>Then you have projects like ThorWallet, which is building a Web3 neo-bank. With ThorWallet, you can have your own bank in your pocket, and interact with DeFi protocols while also incorporating CeFi parts for convenience, like easy on- and off-ramping. This is the kind of true innovation that will drive the future of finance.</p>
+
+
+
+<p>In the end, there are real builders who are focused on creating a better financial system, and this mission remains unchanged. The core of DeFi is freedom of finance, just like the internet’s core is freedom of information. Despite all the noise and distractions, the true innovators will just keep building.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-how-broader-developments-in-crypto-impacted-thorchain-and-thorwallet">How Broader Developments in Crypto Impacted ThorChain and ThorWallet </h2>
+
+
+
+<p>Overall, the vision for ThorWallet hasn’t changed; if anything, it’s been confirmed. The vision has always been clear, and it’s something I present whenever I pitch. </p>
+
+
+
+<p>ThorWallet aims to provide all the financial services a person needs, but based on open, fair, and transparent DeFi technology, with decentralized services and products. We’re talking about holding, sending, and receiving assets, but also trading, savings accounts, lending, borrowing, and even perpetual contracts. While most people may not need the latter, it exists and could be beneficial if used properly.</p>
+
+
+
+<p>When it comes to perpetual contracts, the reality is that most people use them for speculation. However, they can also be used for hedging and other strategies. </p>
+
+
+
+<p>The point is that we now have many financial services that are fully transparent, immutable, and accessible by anyone with a mobile phone and an internet connection. You don’t need a passport, and no one can tell you that you’re not allowed to open a bank account. It’s full freedom of finance, and that vision remains unchanged—it’s only been reinforced over time.</p>
+
+
+
+<p>Of course, we’ve adapted as we’ve gone along, particularly when it comes to our partnerships. We’ve become more discerning in choosing which decentralized protocols we work with, ensuring they’re truly decentralized and not prone to issues like rug pulls. It’s our duty to do the due diligence. </p>
+
+
+
+<p>Since regulation in this area is still developing, we handle that responsibility ourselves. We want to ensure that any protocol we expose our users to is trustworthy. Over the years, this process has become more refined and sharper.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-balance-between-privacy-in-crypto-and-transparency-in-tradfi-thorwallet-s-approach">The Balance Between Privacy in Crypto and Transparency in TradFi: ThorWallet&#8217;s Approach</h2>
+
+
+
+<p>I think privacy is a fundamental right for everyone. But of course, in cases involving bad actors, there should be a system where, with proper legal procedures, privacy can be lifted to ensure justice is served. </p>
+
+
+
+<p>For example, access to financial statements might be necessary in criminal cases, but this should be done through a clear judicial process, like a court order, to prevent unnecessary violations of privacy.</p>
+
+
+
+<p>Currently, we’re seeing a global trend where governments treat everyone with suspicion, especially regarding tax fraud. This approach is wrong. Everyone shouldn’t be presumed guilty. </p>
+
+
+
+<p>If a country has high tax evasion rates, the focus should be on improving governmental processes, not violating citizens’ privacy. For instance, in Switzerland, I’m more than happy to pay my taxes because I can see the value they bring—public infrastructure, clean lakes, and efficient services. </p>
+
+
+
+<p>But in other countries, when taxes are high and public services are poor, it’s harder to accept the amount being taken. That’s why people sometimes try to evade taxes, and this leads to a distorted narrative.</p>
+
+
+
+<p>When it comes to DeFi, it’s somewhat pseudo-anonymous. Transactions are transparent, but the addresses are not directly tied to specific individuals, which provides some level of anonymity. However, if you want to off-ramp, KYC and AML are required, which means that, in the end, there’s full visibility regarding who owns what address. So, it’s not entirely private, except in the case of privacy coins.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-using-privacy-protocols">Using Privacy Protocols</h2>
+
+
+
+<p>That said, using privacy tools can be perfectly reasonable. For instance, you might want to keep certain transactions private, especially if large sums of money are involved. You might not want the public to know you’re worth millions when you deposit into a lending protocol, for example. </p>
+
+
+
+<p>It’s important to approach this calmly and rationally, and there’s no problem as long as it’s explained well.</p>
+
+
+
+<p>I’m committed to supporting any chain that I believe is sufficiently decentralized, whether it’s a privacy coin or not—ThorWallet remains fully tech-neutral. I do believe that, eventually, it will be possible to interact with privacy coins in a way that effectively hides your trace. </p>
+
+
+
+<p>This is especially useful in cases where privacy is justified. However, the system is still designed to catch bad actors. For example, if someone is depositing $100 million but has reported an income of $100,000, it raises immediate questions. </p>
+
+
+
+<p>If the transaction involves a privacy coin, regulators will inquire further. If there’s no solid explanation, the funds may be frozen until the source is clarified, and in some cases, this could lead to uncovering illicit activities like stolen funds.</p>
+
+
+
+<p>So, there’s no issue with implementing privacy protocols as long as the system remains robust enough to prevent misuse.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-overcoming-challenges-in-mass-adoption-and-web3-integration-thorwallet-s-next-big-steps">Overcoming Challenges in Mass Adoption and Web3 Integration: THORWallet&#8217;s Next Big Steps</h2>
+
+
+
+<p>We’re very close to achieving our goal. For example, with ThorWallet, we aim to simplify complex DeFi technology so that users don’t need to be exposed to it. They should have experience similar to centralized finance (CeFi) apps like Revolut, but in the backend, it will run on a fully decentralized network. </p>
+
+
+
+<p>Building a decentralized version of a Revolut app is much more complex, but this is what we’re working on with ThorWallet.</p>
+
+
+
+<p>A key issue we’re addressing is the need for gas tokens. Currently, if you want to send USDC on Avalanche, for example, you need AVAX tokens to cover the transaction fees. </p>
+
+
+
+<p>This makes it unattractive and difficult to onboard a large number of users. We’re working on abstracting this away so users won’t need to worry about specific gas assets. You could top up your MasterCard without worrying about the gas fees at all, for example. We have several technical solutions in place to achieve this, which will ultimately provide a gasless experience similar to CeFi platforms.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-addressing-latency-issues">Addressing Latency Issues</h3>
+
+
+
+<p>Additionally, certain blockchains, like Bitcoin, have latency issues, which are slower than others. But we are finding ways to improve that as well, ensuring a smoother user experience. Once we’ve achieved this, we’ll be ready to onboard 100 million users. That’s why we’re raising growth funds now, as we’re 95% of the way there and ready for the next phase.</p>
+
+
+
+<p>You’ll still need to pay transaction fees, but the way it works will be different. For instance, when you perform a swap, the gas fee will be included in the swap fee itself. If you top up your MasterCard, we might cover the gas fee for you since it&#8217;s usually very small, often just a few cents. </p>
+
+
+
+<p>Another option is to implement a &#8220;gas tank&#8221; feature, where users can top it up with whatever they prefer—Fiat, USDC, or another asset. This gas tank would be used for any required gas fees on different blockchains, like Base or Avalanche, and users would see a message when their gas tank is running low, prompting them to top it up again.</p>
+
+
+
+<p>This could even be a premium feature, where premium users get their gas fees covered by a subscription while other users manage their own gas tanks. Either way, our goal is to make the user experience as seamless as possible.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-thorwallet-and-youhodler-competitors-or-potential-partners-in-bridging-defi-and-traditional-finance">THORWallet and YouHodler: Competitors or Potential Partners in Bridging DeFi and Traditional Finance?</h2>
+
+
+
+<p>At this moment, we don’t view YouHodler as a direct competitor. They’re a centralized entity with a strong focus on perpetuals, which is not currently our focus. While they do service blockchain users, and you could argue they are competitors in that sense, they aren’t competing with us directly right now.</p>
+
+
+
+<p>That said, I’m aware that they’re now making the transition from CeFi to DeFi, which is really exciting, and that could put them in the competitive space in the future. However, since we don’t yet offer perpetuals (perps) in ThorWallet, this could actually lead to a potential partnership instead.</p>
+
+
+
+<p>What’s great about the Web3 space is that its dynamic is different from traditional finance. We’re more open to collaboration here. In fact, I had a discussion yesterday with Ilya, the CEO of YouHodler, about how their upcoming DeFi perpetual protocol could potentially integrate with ThorWallet. </p>
+
+
+
+<p>The key in this space is to focus on expanding the overall market rather than competing for what’s already there.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-crypto-vs-traditional-finance-which-will-have-a-bigger-impact-in-the-long-run">Crypto vs. Traditional Finance: Which Will Have a Bigger Impact in the Long Run?</h2>
+
+
+
+<p>I believe crypto finance will eventually overtake traditional finance, at least from an IT infrastructure perspective. While the financial products themselves will remain similar, the technology behind them will shift to blockchain. </p>
+
+
+
+<p>This switch from the outdated tech stack of traditional finance to the more modern blockchain infrastructure will enable the creation of new financial products that simply weren’t possible before, such as Flash loans. So, in short, I believe crypto finance will surpass traditional finance in the long run.</p>
+
+
+
+<p>It reminds me of the managers at Daimler Benz and Audi, maybe about seven years ago. They had their best year yet while laughing at Tesla and electric cars. Fast forward a few years, and Tesla’s stock was worth more than all of Germany’s car producers combined. </p>
+
+
+
+<p>Suddenly, every major car manufacturer in Germany was scrambling to make electric cars. They were stubborn at first, but eventually, they had to adopt the new paradigm. This shift in the auto industry is exactly what I see happening with traditional finance and crypto.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-final-thoughts">Final Thoughts</h2>
+
+
+
+<p>I had an interesting discussion yesterday regarding the European Union&#8217;s new stablecoin initiative, and I want to share my expertise and personal thoughts on it with your audience.</p>
+
+
+
+<p>I’m really concerned about what’s happening. There are two types of Central Bank Digital Currencies (CBDCs): wholesale and retail. </p>
+
+
+
+<p>Switzerland is focusing on wholesale CBDCs, where only national banks have stablecoins for transactions between banks. This gives them the advantage of immediate settlement, efficiency, and doesn’t disrupt the existing banking hierarchy. In this setup, banks still issue money to retail users, which I think is the correct approach.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-risks-with-cbdcs">Risks with CBDCs</h3>
+
+
+
+<p>However, the European Union, like China, is pushing forward with retail CBDCs, where they would issue digital currency directly to retail users, bypassing banks. This is troubling for two main reasons. </p>
+
+
+
+<p>First, the European Union and national banks haven’t exactly excelled at managing their financial systems over the past 20 years, so I’m skeptical of their ability to handle such a monumental shift, especially without working through banks that already have the necessary infrastructure and experience.</p>
+
+
+
+<p>Secondly, retail CBDCs mean that governments would have full visibility into every transaction users make. They could monitor your spending habits, and if they didn’t like something, they could block you from the financial system with just a few keystrokes. </p>
+
+
+
+<p>This is an incredibly powerful tool, akin to having control over the army—just through financial means. The US Dollar has long been the strongest weapon because of its role in global finance, and we’ve already seen instances where countries like Russia have been cut off from the system. What’s even more concerning is the hypocrisy surrounding these actions, as Russian oligarchs may be blocked in Europe but can still open bank accounts in places like Wyoming. But that’s a different issue.</p>
+
+
+
+<p>What worries me about CBDCs is that they would essentially lead us into an observation state, where everything we do financially is visible to the government. This is a dangerous path, especially when it comes to privacy and financial freedom. </p>
+
+
+
+<p>It would be a major disruption to individual freedoms, and it should not be adopted. Anyone who’s interested in this topic should really look into it, and politicians need to wake up to the dangers they’re walking toward.</p>
+<p>The post <a href="https://beincrypto.com/thorwallet-ceo-on-defi-crypto-finance/">THORWallet CEO Marcel Harmann on DeFi: &#8220;Crypto Finance Will Overtake Traditional Finance&#8221;</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/Marcel-Robert-Harmann.jpg" medium="image" width="1920" height="1080" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/Marcel-Robert-Harmann.jpg"/>	</item>
+		<item>
+		<title>Meet The Crypto Marketing Queen: 15 mins with Amanda Cassatt</title>
+		<link>https://beincrypto.com/amanda-cassatt/</link>
+		
+		<dc:creator><![CDATA[Oihyun Kim]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 06:00:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<category><![CDATA[Blockchain news]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=684794</guid>
+
+					<description><![CDATA[<p>In a swift Hong Kong encounter, we caught up with Amanda Cassatt, the undisputed queen of crypto marketing. From HuffPost editor to ConsenSys CMO to founding Serotonin, she&#8217;s been reshaping how blockchain connects with the world. Fifteen minutes. Rapid fire. Here&#8217;s the buzz. APAC HUB: WHY HONG KONG? Hong Kong has proven itself forward-thinking with &#8230; <a href="https://beincrypto.com/amanda-cassatt/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/amanda-cassatt/">Meet The Crypto Marketing Queen: 15 mins with Amanda Cassatt</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>In a swift Hong Kong encounter, we caught up with Amanda Cassatt, the undisputed queen of crypto marketing. From HuffPost editor to ConsenSys CMO to founding Serotonin, she&#8217;s been reshaping how blockchain connects with the world. Fifteen minutes. Rapid fire. Here&#8217;s the buzz.</em></p>
+
+
+
+<h6 class="wp-block-heading" id="h-apac-hub-why-hong-kong">APAC HUB: WHY HONG KONG?</h6>
+
+
+
+<p>Hong Kong has proven itself forward-thinking with crypto regulation. Great home base to travel easily—Vietnam, Korea, Japan, Singapore, India. We help global projects enter Asia and local projects go global.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-secret-weapon">SECRET WEAPON?</h6>
+
+
+
+<p>Taking responsibility for making certain outcomes happen. The world is changing so fast—PR, advertising, social media. We&#8217;ve done the legwork and built relationships so clients can focus on building products.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="566" height="850" data-id="684806" src="https://beincrypto.com/wp-content/uploads/2025/04/Amanda02-566x850.jpg" alt="" class="wp-image-684806" srcset="https://beincrypto.com/wp-content/uploads/2025/04/Amanda02-566x850.jpg 566w, https://beincrypto.com/wp-content/uploads/2025/04/Amanda02-240x360.jpg 240w, https://beincrypto.com/wp-content/uploads/2025/04/Amanda02-768x1154.jpg 768w, https://beincrypto.com/wp-content/uploads/2025/04/Amanda02-150x225.jpg 150w, https://beincrypto.com/wp-content/uploads/2025/04/Amanda02.jpg 852w" sizes="(max-width: 566px) 100vw, 566px" /><figcaption class="wp-element-caption">Source: 2025 Web3 Festival Hong Kong</figcaption></figure>
+</figure>
+
+
+
+<h6 class="wp-block-heading" id="h-on-community-marketing">ON COMMUNITY MARKETING:</h6>
+
+
+
+<p>We&#8217;re facilitators, blowing oxygen on the sparks of what the community is already doing. Crypto collapses investors, builders, and users into a single category called &#8216;community.&#8217; We set up incentives, solve the cold start problem, and watch what organically emerges.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-ai-s-role">AI&#8217;S ROLE:</h6>
+
+
+
+<p>No more excuses for typos. If you think AI is a good writer, it just means you&#8217;re a worse writer than AI. Great for research—double-check for hallucinations. Great for copy editing. But no match for the highest quality human.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-industry-focus">INDUSTRY FOCUS:</h6>
+
+
+
+<p>This cycle, RWA is really interesting. BlackRock&#8217;s CEO saying everything will be tokenized. Stablecoins are huge—USD already has product-market fit, so tokenizing it automatically gets PMF. Novel DeFi primitives keep evolving.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-your-book-s-message">YOUR BOOK&#8217;S MESSAGE:</h6>
+
+
+
+<p><em><a href="https://amandacassatt.com/" target="_blank" rel="noreferrer noopener">Web3 Marketing</a></em> just hit shelves in Mandarin. It&#8217;s the story of bringing Ethereum to market, graded with my personal journey. The takeaway? It&#8217;s more efficient to incentivize users to help grow your platform than to market the whole thing yourself. It&#8217;s a template for harnessing community ownership.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-ethereum-to-now">ETHEREUM TO NOW:</h6>
+
+
+
+<p>We built strategies that became templates for how Web3 projects come to market. Some tactics are enshrined, but we want to conserve what&#8217;s worked while defining the next greatest trend.</p>
+
+
+
+<p><em>As our 15 minutes closes, this Columbia graduate and Forbes 30 Under 30 honoree drops one certainty: The thing that doesn&#8217;t change in marketing is the protocol—understanding the </em>audience, understanding the product, and <em>measuring how well it&#8217;s working. Rinse and repeat. From the daughter of a neuroscientist and computer scientist to the architect of Web3&#8217;s marketing playbook, Cassatt continues leading Serotonin&#8217;s global team of 100 from the edge of what&#8217;s next.</em></p>
+<p>The post <a href="https://beincrypto.com/amanda-cassatt/">Meet The Crypto Marketing Queen: 15 mins with Amanda Cassatt</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/Amanda-Cassatt.jpg" medium="image" width="1920" height="1080" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/Amanda-Cassatt.jpg"/>	</item>
+		<item>
+		<title>Solana&#8217;s Vision of Internet Capital Markets: Insights from Lily Liu</title>
+		<link>https://beincrypto.com/solanas-vision-of-internet-capital-markets-lily-liu/</link>
+		
+		<dc:creator><![CDATA[Oihyun Kim]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 23:00:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=684817</guid>
+
+					<description><![CDATA[<p>Lily Liu, President of the Solana Foundation, is looking beyond meme coins to establish Solana as the infrastructure for what she calls &#8220;internet capital markets.&#8221; In an exclusive interview with BeInCrypto and a presentation at the 2025 Web3 Festival in Hong Kong, Liu outlined her vision for blockchain technology&#8217;s role in democratizing financial access. From &#8230; <a href="https://beincrypto.com/solanas-vision-of-internet-capital-markets-lily-liu/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/solanas-vision-of-internet-capital-markets-lily-liu/">Solana&#8217;s Vision of Internet Capital Markets: Insights from Lily Liu</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Lily Liu, President of the Solana Foundation, is looking beyond meme coins to establish Solana as the infrastructure for what she calls &#8220;internet capital markets.&#8221;</strong></p>
+
+
+
+<p>In an exclusive interview with BeInCrypto and a presentation at the 2025 Web3 Festival in Hong Kong, Liu outlined her vision for blockchain technology&#8217;s role in democratizing financial access.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-from-meme-coins-to-the-everything-chain">From Meme Coins to the &#8220;Everything Chain&#8221;</h2>
+
+
+
+<p>&#8220;Solana has evolved from being the DeFi chain to the NFT chain, the gaming chain, the payment chain, and recently the meme coin chain,&#8221; Liu explained. &#8220;When you sum all that up, Solana is the everything chain.&#8221;</p>
+
+
+
+<p>While meme coins drove Solana&#8217;s price to an impressive $290 high in January before falling 60% to around $120 today, Liu views them as just one transient asset class in a much broader ecosystem. &#8220;Meme coins are just one type of asset. There will be something else—there&#8217;s always going to be the tulip market and the beanie baby market. That&#8217;s been going on for a really long time. That&#8217;s just what humans do with or without blockchain,&#8221; Liu noted.</p>
+
+
+
+<p>Despite price volatility, Solana&#8217;s Total Value Locked (TVL) reached an all-time high in April 2025, demonstrating continued investor confidence in the ecosystem beyond speculative assets.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-crisis-of-capital-access-for-young-generations">The Crisis of Capital Access for Young Generations</h2>
+
+
+
+<p>Liu, who previously co-founded Earn.com (acquired by Coinbase in 2018) and served as CFO of Chinaco Healthcare Corporation, brings significant experience from building businesses in both the US and China to her current role at Solana. Her background in traditional finance gives weight to her critique of current capital markets.</p>
+
+
+
+<p>&#8220;Fifty years ago, it took 25 hours of labor to buy one share of the S&amp;P 500. Today, it takes 195 hours,&#8221; Liu noted in her presentation, highlighting how capital gains have become less accessible to average workers while losses are increasingly socialized through national debt.</p>
+
+
+
+<p>This inaccessibility to capital markets has created anxiety among young people globally. Liu pointed to challenges in Korea and China, where housing prices have skyrocketed beyond what young professionals can afford without parental support.</p>
+
+
+
+<p>&#8220;In Korea and China, the parents&#8217; generation has retained the upside of a major asset class like housing. Young people&#8217;s ability to convert hours of labor into capital and freedom later in life has become extremely limited,&#8221; she observed. &#8220;In China, it creates huge anxiety for families where young men are culturally expected to own an apartment before marriage, yet average professional salaries make this impossible without parental help.&#8221;</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-blockchain-as-global-financial-infrastructure">Blockchain as Global Financial Infrastructure</h2>
+
+
+
+<p>Liu sees blockchain&#8217;s core purpose as creating a unified global financial infrastructure, similar to how the internet unified attention. &#8220;What crypto is doing is providing this unified infrastructure to unify the wealth, the transactions, the financial coffers of five and a half billion people,&#8221; she explained.</p>
+
+
+
+<p>This infrastructure enables what Liu calls &#8220;internet capital markets,&#8221; making the full range of financial assets available to anyone with an internet connection. She contrasts the simplicity of downloading a crypto wallet against the complex paperwork of traditional banking and investment systems.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="850" height="566" src="https://beincrypto.com/wp-content/uploads/2025/04/Lily_Solana_3-850x566.jpg" alt="" class="wp-image-684870" srcset="https://beincrypto.com/wp-content/uploads/2025/04/Lily_Solana_3-850x566.jpg 850w, https://beincrypto.com/wp-content/uploads/2025/04/Lily_Solana_3-360x240.jpg 360w, https://beincrypto.com/wp-content/uploads/2025/04/Lily_Solana_3-768x512.jpg 768w, https://beincrypto.com/wp-content/uploads/2025/04/Lily_Solana_3-150x100.jpg 150w, https://beincrypto.com/wp-content/uploads/2025/04/Lily_Solana_3.jpg 1280w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Lily Liu, President of Solana Foundation. Source: 2025 Web3 Festival Hong Kong.</figcaption></figure>
+
+
+
+<p>For Liu, this infrastructure is particularly valuable in expanding access to equities and other assets that have both fundamental value and price discovery—currently reserved primarily for accredited investors even in developed markets.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-community-based-capitalism-and-the-ownership-economy">Community-Based Capitalism and the Ownership Economy</h2>
+
+
+
+<p>Liu argues that blockchain offers an alternative to traditional economic systems. &#8220;In the last 100 years, we&#8217;ve come to accept that the dominant ownership models are either capitalist or communist—corporate ownership or state ownership,&#8221; she explained. &#8220;What Bitcoin proposed is that those aren&#8217;t the only choices.&#8221;</p>
+
+
+
+<p>This has evolved into what Liu calls &#8220;community-based capitalism,&#8221; a term she uses to describe economic models where value accrues to network participants rather than just shareholders or the state. &#8220;Instead of universal basic income, which is essentially a welfare economy, crypto proposes universal basic opportunity,&#8221; she said. This model allows early participants in network building to share in the upside.</p>
+
+
+
+<p>Liu contrasts this with traditional platforms like Uber, where early drivers who helped bootstrap the network received hourly pay but no equity upside. Her &#8220;ownership economy&#8221; concept refers to this more inclusive approach to capital formation where contribution and ownership are more closely aligned.</p>
+
+
+
+<p>Solana&#8217;s governance reflects this philosophy, which was recently demonstrated in a controversial proposal to reduce inflation. Liu actively participated in this discussion, explaining that inflation reduction might seem efficient from a network security perspective but would potentially harm Solana as a yield-generating asset.</p>
+
+
+
+<p>&#8220;Dynamic yield on an asset makes it a worse asset,&#8221; Liu emphasized. &#8220;If you have an asset yielding a fixed percentage annually, you price that very differently than an asset yielding at variable rates.&#8221;</p>
+
+
+
+<p>Looking five years ahead, Liu envisions Solana enabling an ownership economy where blockchain creates new pathways for individuals to convert labor into capital, bringing &#8220;more inclusivity for five and a half billion people on the internet into capital markets.&#8221;</p>
+
+
+
+<p>&#8220;The end state is moving into assets that have value, can also command price, and bring more inclusivity around the world,&#8221; Liu concluded. &#8220;This is where crypto is going.&#8221;</p>
+<p>The post <a href="https://beincrypto.com/solanas-vision-of-internet-capital-markets-lily-liu/">Solana&#8217;s Vision of Internet Capital Markets: Insights from Lily Liu</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/Lily-Liu.jpg" medium="image" width="1920" height="1080" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/Lily-Liu.jpg"/>	</item>
+		<item>
+		<title>Future of Web3 Venture Capital: What to Expect in 2025</title>
+		<link>https://beincrypto.com/future-of-web3-venture-capital-what-to-expect-in-2025/</link>
+		
+		<dc:creator><![CDATA[Jakub Dziadkowiec]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 22:00:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<category><![CDATA[News for institutional investors]]></category>
+		<category><![CDATA[Web3 News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=683817</guid>
+
+					<description><![CDATA[<p>Gate.io executive Laura K. Inamedinova discusses the factors that are shaping the future of Web3 venture capital.</p>
+<p>The post <a href="https://beincrypto.com/future-of-web3-venture-capital-what-to-expect-in-2025/">Future of Web3 Venture Capital: What to Expect in 2025</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>BeInCrypto had the opportunity to sit down with Laura K. Inamedinova, Chief Ecosystem Officer at Gate.io, during the Next Block Expo, The Blockchain Festival of Europe 2025. As one of the leading figures in the Web3 and crypto space, Laura shared her insights on the current state of the venture capital industry, its challenges, and the exciting opportunities emerging in 2025. </strong></p>
+
+
+
+<p>In this interview, Laura discusses the factors that are shaping the future of Web3 venture capital, the potential for stablecoins and real-world asset tokenization, and how global regulatory advancements are paving the way for more institutional involvement in the sector. Her expertise offers valuable guidance for anyone looking to understand the next phase of crypto and blockchain development.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-resurgence-of-web3-venture-capital-key-drivers-for-2025">The Resurgence of Web3 Venture Capital: Key Drivers for 2025</h2>
+
+
+
+<p><em><strong>BeInCrypto (BIC)</strong>: Given the challenging VC landscape in 2024, what factors do you believe will drive a potential resurgence in Web3 venture capital activity in 2025?</em></p>
+
+
+
+<p><strong>Laura K. Inamedinova (LKI)</strong>: After a tough 2024, I think we’re finally seeing the pieces fall into place for a strong Web3 VC comeback in 2025. Regulations are becoming clearer; the US is dropping major <a href="https://beincrypto.com/sec-drops-xrp-lawsuit-against-ripple/" target="_blank" rel="noreferrer noopener">lawsuits like Ripple</a>, and <a href="https://beincrypto.com/american-voters-oppose-trump-bitcoin-reserve/" target="_blank" rel="noreferrer noopener">Trump announced</a> a $17 billion crypto reserve. </p>
+
+
+
+<p>That shift alone has already brought results: we saw $861 million in crypto VC deals just in Q1, which is a clear sign of renewed confidence. What’s also fueling the comeback is global capital.</p>
+
+
+
+<p>For example, Gate Ventures launched a $100 million fund with UAE last year, and Abu Dhabi invested $2 billion into Binance, positioning the region as a new hotspot for Web3 investment. Overall, Web3 venture capital activity is shifting back to the early stage. In 2024, 85% of VC deals were seed or Series A, backing infrastructure-first projects like modular chains like Celestia and Move-based networks like Movement Labs.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-institutional-involvement-and-regulatory-advancements-shaping-investment-strategies">Institutional Involvement and Regulatory Advancements Shaping Investment Strategies</h2>
+
+
+
+<p><em><strong>BIC</strong>: Last year marked the rise of institutional involvement in Web3 and regulatory advancements for the industry. How do you see these factors influencing your investment strategy in the coming year?</em></p>
+
+
+
+<p><strong>LKI</strong>: This has been a cycle of contrasts. Retail chased hype-driven meme coins, while institutions played it safe, focusing on stablecoins and tokenized assets. </p>
+
+
+
+<p>Regulatory clarity is now reinforcing that shift: <a href="https://beincrypto.com/mica-eu-unanimous-approval/" target="_blank" rel="noreferrer noopener">MiCA in Europe</a> and new US frameworks under the Trump administration are making yield-bearing stablecoins and risk-adjusted RWAs like tokenized treasuries more attractive. In a high-interest-rate environment, these assets offer stable returns &#8211; a much safer bet for serious investors.</p>
+
+
+
+<p>Our investment thesis aligns with this institutional trend, focusing on RWA tokenization platforms and stablecoin ecosystems. By backing the infrastructure that enables compliant, scalable adoption, we position ourselves at the core of crypto’s institutional evolution.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-consumer-oriented-solutions-in-web3">Consumer-Oriented Solutions in Web3</h2>
+
+
+
+<p><em><strong>BIC</strong>: Which areas of Web3 (e.g., NFTs, DeFi, DAOs, etc.) do you believe will maintain its momentum into 2025, and why?</em></p>
+
+
+
+<p><strong>LKI</strong>: To predict the next big narratives, we need to understand what’s holding the market back today. Most projects have been heavily B2B-focused, catering to existing industry players rather than expanding the ecosystem by attracting a fresh audience from Web2. This inward-facing approach has limited mainstream adoption. It created an echo chamber where innovation circulates among the same user base without reaching new consumers.</p>
+
+
+
+<p>Put simply, for one project to win, three others need to die. The true winners of this cycle will be those who shift their focus to consumer-oriented solutions, designing products and experiences that resonate with everyday users. By prioritizing accessibility, usability, and real-world value, these projects will finally break the cycle and catalyze the beginning of the bull market.</p>
+
+
+
+<p>Apart from the B2C focused apps, I see strong potential in AI, RWA, and payment solutions. It goes without saying, AI is here to stay. But instead of simple <a href="https://beincrypto.com/crypto-ai-agents-expand-in-number-despite-declining-market-caps/" target="_blank" rel="noreferrer noopener">ChatGPT-wrapped AI agents</a>, we’ll see more advanced, integrated solutions with real-world applications, including robotics. </p>
+
+
+
+<p>This will unlock a ton of new use cases in automated security, AI-driven trading, and on-chain decision-making, to name just a few. I see AI transforming from an external tool into a fundamental layer of Web3. RWA tokenization will continue to gain momentum, especially with the integration of AI-powered RWAs.</p>
+
+
+
+<p>Major institutions like State Street are already exploring AI-driven tokenized bonds and money market funds. There’s a growing alignment between traditional finance and blockchain. This isn’t a niche development &#8211; it’s an opportunity to unlock liquidity in a $70 trillion+ asset class. With RWA tokenization <a href="https://beincrypto.com/blackrock-dominates-rwa-buidl-aum-grows/">projected to surpass $50 billion</a> by the end of 2025, the addition of AI will introduce automation, scalability, and transparency &#8211; critical elements for mass adoption.</p>
+
+
+
+<p>Payments will also be a key driver. Stablecoins are seeing increased adoption for cross-border transactions, remittances, and on-chain settlements. Regulatory clarity and improved UX will accelerate this trend, making stablecoins a core component for the future of global finance.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="638" height="850" src="https://beincrypto.com/wp-content/uploads/2025/04/Gate-IO-638x850.jpg" alt="" class="wp-image-683823" srcset="https://beincrypto.com/wp-content/uploads/2025/04/Gate-IO-638x850.jpg 638w, https://beincrypto.com/wp-content/uploads/2025/04/Gate-IO-270x360.jpg 270w, https://beincrypto.com/wp-content/uploads/2025/04/Gate-IO-640x853.jpg 640w, https://beincrypto.com/wp-content/uploads/2025/04/Gate-IO-150x200.jpg 150w, https://beincrypto.com/wp-content/uploads/2025/04/Gate-IO.jpg 768w" sizes="(max-width: 638px) 100vw, 638px" /><figcaption class="wp-element-caption">Bartek Juraszek of BeInCrypto speaks with Laura K. Inamedinova at Next Block Expo</figcaption></figure>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-stablecoins-as-core-infrastructure-for-venture-capital">Stablecoins as Core Infrastructure for Venture Capital</h2>
+
+
+
+<p><em><strong>BIC</strong>: Stablecoin development attracted significant venture capital in the last quarter of 2024. Do you see this trend continuing, and what specific aspects of stablecoin projects are you prioritizing?</em></p>
+
+
+
+<p><strong>LKI</strong>: Stablecoins <a href="https://beincrypto.com/crypto-venture-capital-to-exceed-18-billion/" target="_blank" rel="noreferrer noopener">were a major VC focus</a> in late 2024, and I see that trend continuing in 2025. Just in Q4, stablecoin projects pulled in $649 million across nine deals; that’s nearly 18% of all crypto VC funding. We’re also seeing strong signals from traditional finance: Fidelity is testing its own stablecoin, and Trump-linked World Liberty Financial launched USD1. </p>
+
+
+
+<p>With over $239 billion in stablecoins already in circulation, this space isn’t just growing, it’s becoming core infrastructure for payments, trading, and settlements across both DeFi and TradFi.</p>
+
+
+
+<p>What’s getting the most attention now is the rise of gold-backed stablecoins. Tokens like Tether’s XAUT and Paxos’ PAXG now hold a combined market cap of over $1.4 billion, a massive jump from just $12 million in 2020. These asset-backed models bring real-world value on-chain and offer protection against inflation, which is super attractive in today’s macro environment.</p>
+
+
+
+<p>Based on this, we&#8217;re prioritizing stablecoin projects that have strong collateral models, clear regulatory paths, and real use cases beyond speculation, especially those bridging into RWAs or global payments.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-innovations-in-defi-and-infrastructure">Innovations in DeFi and Infrastructure</h2>
+
+
+
+<p><em><strong>BIC</strong>: DeFi and Infrastructure followed closely behind the top categories. What specific innovations within these sectors are you most excited about for potential funding in 2025?</em></p>
+
+
+
+<p><strong>LKI</strong>: I think in DeFi, the real momentum is getting toward projects that merge automation with usability and compliance. One standout is DeFi Agents AI ($DEFAI), which raised $1.2 million in January 2025, backed by GameFi.org and eesee.io. It is building an AI trading assistant layered with restaking mechanics. So, you’re not just trading; you’re staking for revenue share and training custom models.</p>
+
+
+
+<p>Add to that tools like Griffain, which reduces impermanent loss by 22%, and VaderAI, running 10,000+ on-chain transactions daily, and you start to see a new class of DeFi products built for scale, efficiency, and real usage. As MiCA 2.0 rolls out in Europe, platforms that offer AI-powered compliance and risk tools will stand out in both funding rounds and user adoption.</p>
+
+
+
+<p>From an infrastructure perspective, we’re seeing strong capital flow into AI-ready backend systems that support these DeFi layers. CoreWeave, backed by over $1.1 billion from Nvidia and Microsoft, is scaling AI-optimized data centers that can support up to 5 million DeFi agents per site.</p>
+
+
+
+<p>On the enterprise side, Cisco’s acquisition of strong intelligence and deeper insights AI shows how serious legacy tech firms are about owning the infrastructure layer. For investors, this is where the edge is. Make sure to check out projects that are building the high-speed, compliant infrastructure that will quietly power the next wave of DeFi and on-chain automation.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-not-just-meme-coins-and-ai-agents-is-web3-maturing">Not Just Meme Coins and AI Agents: Is Web3 Maturing?</h2>
+
+
+
+<p><em><strong>BIC</strong>: The last couple of months suggested a shift away from meme coins and AI agents. What do you attribute this change in investor sentiment to, and what does it suggest about the maturity of the Web3 market?</em></p>
+
+
+
+<p><strong>LKI</strong>: The recent shift away from memes and AI agents reflects a growing maturity in the Web3 market. Meme coins, while often <a href="https://beincrypto.com/donald-trump-usd1-stablecoin/" target="_blank" rel="noreferrer noopener">popular in speculative cycles</a>, generally lack real utility, making them unsustainable in the long run.</p>
+
+
+
+<p>AI agents are still in their infancy &#8211; most projects offer similar functionalities, suffer from technical limitations, and remain too buggy for practical use. As the market matures, investors are becoming more discerning, prioritizing projects with tangible value, strong fundamentals, and real-world applications. </p>
+
+
+
+<p>This shift suggests a move toward more sustainable narratives, such as payments, RWA tokenization, and infrastructure, signaling that Web3 is evolving beyond hype-driven trends into a phase of real adoption and long-term growth.</p>
+
+
+
+<p><em><strong>BIC</strong>: What types of projects and what qualities of projects are you most looking for in 2025?</em></p>
+
+
+
+<p><strong>LKI</strong>: We have multiple criteria when evaluating projects with the best fit for our venture arm. First, we’re looking for projects that are led by experienced founders with a proven track record in Web3, ideally with a successful exit in the past.</p>
+
+
+
+<p>Second, we prioritize businesses with existing investor backing, whether in the current or previous rounds. We evaluate each project on a case-by-case basis, but our investment thesis generally revolves around stablecoins, payments, new technology, infrastructure, and US-based projects.</p>
+
+
+
+<p>Third, we take into consideration the project’s valuation, tokenomics, and burn rate.</p>
+
+
+
+<p>Last but not least, we assess the company’s ability to drive real-world adoption, offering solutions with a clear path to mainstream success.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-conclusion-venture-capital-in-web3">Conclusion: Venture Capital in Web3</h2>
+
+
+
+<p><strong>BIC</strong>: How do you balance the pursuit of emerging trends with the need for sustainable, long-term value creation in your Web3 investments?</p>
+
+
+
+<p><strong>LKI</strong>: One of the clearest signals this cycle has been the rise of AI agent coins &#8211; they hit a $16.6 billion market cap early in 2025. It shows that when you combine a viral narrative with actual user engagement, there’s staying power. </p>
+
+
+
+<p>From there, we saw that the bigger trend wasn’t just AI; it was AI fused with tokenization. Projects like Centrifuge, which tokenizes real-world assets like invoices and real estate to unlock liquidity for businesses, are doing exactly that. They&#8217;re not hype plays; they’re solving real inefficiencies in traditional finance using on-chain rails.</p>
+
+
+
+<p>We’re also seeing strong signals from early-stage modular blockchain ecosystems that are building quietly but with clear scalability goals. We lean into trends but only when the tech underneath has the foundation to last.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="850" height="565" src="https://beincrypto.com/wp-content/uploads/2025/04/f2e47453-96e1-4a6e-8237-6705b82a2ab4_1-850x565.jpg" alt="" class="wp-image-683822" srcset="https://beincrypto.com/wp-content/uploads/2025/04/f2e47453-96e1-4a6e-8237-6705b82a2ab4_1-850x565.jpg 850w, https://beincrypto.com/wp-content/uploads/2025/04/f2e47453-96e1-4a6e-8237-6705b82a2ab4_1-360x239.jpg 360w, https://beincrypto.com/wp-content/uploads/2025/04/f2e47453-96e1-4a6e-8237-6705b82a2ab4_1-768x511.jpg 768w, https://beincrypto.com/wp-content/uploads/2025/04/f2e47453-96e1-4a6e-8237-6705b82a2ab4_1-150x100.jpg 150w, https://beincrypto.com/wp-content/uploads/2025/04/f2e47453-96e1-4a6e-8237-6705b82a2ab4_1.jpg 1280w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Laura K. Inamedinova speaks at NBX</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="h-about-laura-k-inamedinova">About Laura K. Inamedinova</h3>
+
+
+
+<p>An award-winning serial entrepreneur, investor, and keynote speaker sharing her insights on Web3 space since 2016. She currently holds a dual role within the Gate ecosystem, managing the global growth of the exchange and attracting new investments to its venture arm &#8211; GVC. </p>
+
+
+
+<p>In her position as a CGEO at Gate.io, she builds cross-border partnerships and as a Principal at Gate Ventures, Laura oversees investments, partnerships, and development of the fund.</p>
+
+
+
+<p>Before joining Gate.io, she founded a Web3 marketing agency, LKI Consulting, which she grew to 8-figures. This led her to be globally acclaimed as one of the “10 Women Entrepreneurs” by Entrepreneur Magazine and among the “Top 10 Women in International Business” by Silicon Valley Times. She was named one of Forbes&#8217; 30 Under 30 Blockchain Visionaries, recognizing her impact on the global crypto ecosystem.</p>
+
+
+
+<p>On a personal level, Laura is a successful angel investor with 40+ projects in her portfolio, an ex-Forbes and Huffington Post columnist, and an internationally renowned speaker with a track record of 156+ conferences in 25+ countries.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-about-gate-io">About Gate.io</h3>
+
+
+
+<p>Gate.io is a global cryptocurrency exchange platform that facilitates the buying, selling, and trading of over 3,800 digital assets. It offers a variety of products and services, including spot and futures trading, staking, decentralized finance (DeFi) solutions, Web3 wallets, and educational resources. </p>
+
+
+
+<p>Additionally, Gate.io provides a range of tools for managing crypto investments, such as exchange wallets, live market data, and token airdrops. The platform also emphasizes security with robust measures like proof of reserves and offers services like Gate Pay for sending and receiving cryptocurrencies.</p>
+<p>The post <a href="https://beincrypto.com/future-of-web3-venture-capital-what-to-expect-in-2025/">Future of Web3 Venture Capital: What to Expect in 2025</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/Laura-K.-Inamedinova.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/Laura-K.-Inamedinova.png"/>	</item>
+		<item>
+		<title>TON&#8217;s Path to 500M Users and US Expansion Plans &#8211; Interview with Steve Yun</title>
+		<link>https://beincrypto.com/steve-yun-reveals-ton-foundation-strategy/</link>
+		
+		<dc:creator><![CDATA[Oihyun Kim]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 02:00:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=684386</guid>
+
+					<description><![CDATA[<p>Steve Yun, representing TON Foundation as a board member, met with BeInCrypto during the 2025 Web3 Festival Hong Kong. In this exclusive interview, he discussed TON&#8217;s recent developments and their unique position in the blockchain landscape as a mini-app focused infrastructure built for Telegram&#8217;s ecosystem. The conversation covered TON&#8217;s $400 million secondary market investment, technical &#8230; <a href="https://beincrypto.com/steve-yun-reveals-ton-foundation-strategy/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/steve-yun-reveals-ton-foundation-strategy/">TON&#8217;s Path to 500M Users and US Expansion Plans &#8211; Interview with Steve Yun</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Steve Yun, representing TON Foundation as a board member, met with BeInCrypto during the 2025 Web3 Festival Hong Kong. In this exclusive interview, he discussed TON&#8217;s recent developments and their unique position in the blockchain landscape as a mini-app focused infrastructure built for Telegram&#8217;s ecosystem.</strong></p>
+
+
+
+<p>The conversation covered TON&#8217;s $400 million secondary market investment, technical upgrades to their asynchronous architecture, and strategic initiatives across DeFi and gaming sectors. Yun also shared his perspectives on expansion into US markets and leveraging the Asia-Pacific region&#8217;s familiarity with super-app ecosystems.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-tvl-on-ton-has-dropped-by-72-why-and-what-s-your-response">TVL on TON has dropped by 72%. Why, and what&#8217;s your response?</h6>
+
+
+
+<p>The decrease in Total Value Locked primarily stems from our strategic decision to discontinue liquidity pool incentives. Our analysis confirms that incentives are effective—with their impact being significant in bear markets and exponentially greater during bull markets—but the fundamental challenge is ensuring that liquidity remains sustainable after incentives end.</p>
+
+
+
+<p>What we discovered is that a comprehensive DeFi ecosystem is essential for sustainable liquidity. Our initial infrastructure consisted primarily of basic Automated Market Makers, which wasn&#8217;t sufficient. Now we&#8217;re building a complete suite of DeFi primitives: lending protocols, derivatives, perpetual futures, concentrated liquidity DEXs with limit orders, stable swap mechanisms like Curve, and dynamic liquidity solutions similar to Maverick.</p>
+
+
+
+<p>These capital-efficient tools create an ecosystem where liquidity naturally wants to remain. We&#8217;re busy developing this comprehensive infrastructure, and once it&#8217;s in place, we&#8217;ll consider reintroducing incentives. The key insight was that incentives alone create temporary activity, but a robust ecosystem creates lasting value and sustainable growth.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-how-will-you-use-the-recent-400m-investment-with-telegram-for-web3-initiatives">How will you use the recent <a href="https://fortune.com/crypto/2025/03/20/telegram-based-blockchain-ton-raises-400-million-from-prominent-crypto-vcs/" target="_blank" rel="noreferrer noopener nofollow">$400M investment</a> with Telegram for Web3 initiatives?</h6>
+
+
+
+<p>The $400 million investment happened over several years in the secondary market, not directly to the foundation. The foundation does not directly receive these funds—the beneficiaries are Toncoin holders and miners who determine the allocation of these proceeds independently. We operate solely on donations from miners as our reserve. While we hope these funds benefit the ecosystem, it&#8217;s ultimately up to the individual holders. It&#8217;s important to clarify that when we announced this investment, we were consolidating and reporting secondary market sales that we were aware of, not announcing a direct investment into the foundation itself.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="850" height="566" src="https://beincrypto.com/wp-content/uploads/2025/04/Steve-850x566.jpg" alt="" class="wp-image-684392" srcset="https://beincrypto.com/wp-content/uploads/2025/04/Steve-850x566.jpg 850w, https://beincrypto.com/wp-content/uploads/2025/04/Steve-360x240.jpg 360w, https://beincrypto.com/wp-content/uploads/2025/04/Steve-768x511.jpg 768w, https://beincrypto.com/wp-content/uploads/2025/04/Steve-150x100.jpg 150w, https://beincrypto.com/wp-content/uploads/2025/04/Steve.jpg 1280w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Steve Yun is giving a keynote speech at the Web3 Festival main event. Source:Web3 Festival</figcaption></figure>
+
+
+
+<h6 class="wp-block-heading" id="h-what-key-features-will-your-2025-layer-2-network-and-accelerator-mainnet-upgrade-deliver">What key features will your 2025 Layer-2 network and <a href="https://docs.ton.org/v3/documentation/infra/nodes/validation/collators" target="_blank" rel="noreferrer noopener nofollow">&#8220;Accelerator&#8221; mainnet upgrade</a> deliver?</h6>
+
+
+
+<p>We&#8217;ve implemented substantial enhancements to TON&#8217;s asynchronous architecture, which is fundamentally different from synchronous blockchains like Ethereum. In TON, transactions don&#8217;t need to wait for previous ones to confirm—they can all be confirmed simultaneously, making it much faster and more scalable. Previously, congestion in one shard could affect the entire network, but our update ensures problems remain isolated to specific shards, greatly improving network robustness.</p>
+
+
+
+<p>We&#8217;re also developing a new programming language to replace FunC, which presents significant complexity for developers due to its low-level nature. Additionally, we&#8217;re working on workchains—similar to Polkadot&#8217;s parachains but more tightly coupled with the main chain. These specialized chains will enable use cases the current infrastructure can&#8217;t support efficiently, like high-frequency trading that requires hyper-liquid decentralized exchanges. These improvements collectively make TON more developer-friendly and capable of supporting diverse applications.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-how-will-the-ton-btc-bridging-mechanism-impact-your-ecosystem">How will the TON BTC bridging <a href="https://blog.ton.org/unlocking-the-future-of-bitcoin-with-ton-teleport-btc" target="_blank" rel="noreferrer noopener nofollow">mechanism</a> impact your ecosystem?</h6>
+
+
+
+<p>tgBTC represents a significant addition to our collateral ecosystem, substantially boosting liquidity in TON&#8217;s DeFi environment. What makes it unique is our implementation approach. Most wrapped Bitcoin solutions on other chains use token standards like ERC-20, which include compliance features allowing the issuer to freeze or confiscate assets. This centralization is problematic for Bitcoin holders who value decentralization.</p>
+
+
+
+<p>TON addresses this challenge through our proprietary &#8220;extra currencies&#8221; technology, which functions like Toncoin itself—controlled only by the validator network, not by any single entity. This means tgBTC cannot be frozen or confiscated by the token creator, making it uniquely appealing to Bitcoin holders who want to generate yield through DeFi activities but have been reluctant to use other wrapped solutions due to custody concerns. They can now utilize their Bitcoin in DeFi without compromising on the core value of censorship resistance that attracted them to Bitcoin initially.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-what-advantages-does-ton-have-in-defi-and-gamefi">What advantages does TON have in DeFi and GameFi?</h6>
+
+
+
+<p>Speaking personally, I maintain measured expectations regarding the future trajectory of crypto gaming. When we&#8217;ve seen high-quality games launch on Telegram, users&#8217; primary concern tends to focus on tokenization timelines rather than appreciating gameplay. People want speculation, not games—crypto gaming often served as an alternative vehicle for speculative activity. Even successful examples like Axie Infinity saw price outpace reality, and few still play these games.</p>
+
+
+
+<p>The foundation continues supporting gaming initiatives due to Telegram&#8217;s social aspects, but I believe the crypto gaming paradigm as initially conceived may have reached its conclusion. It can exist as one monetization strategy among many, but isn&#8217;t essential.</p>
+
+
+
+<p>DeFi, however, cannot exist without crypto. We&#8217;re focused on payments and DeFi solutions, including the tokenization of Telegram bonds, which generate 8-15% annual returns and may offer discount access to potential Telegram IPOs—powerful assets for the ecosystem.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-what-are-your-us-expansion-plans-under-chairman-manuel-stotz-s-leadership">What are your US expansion plans under chairman <a href="https://blog.ton.org/ton-foundation-new-president" target="_blank" rel="noreferrer noopener nofollow">Manuel Stotz</a>&#8216;s leadership?</h6>
+
+
+
+<p>Due to past SEC issues with Gram, we maintained a policy of non-engagement with US entities. When they reached out, we simply declined engagement opportunities. However, the regulatory landscape has evolved, prompting a recalibration of our strategy.</p>
+
+
+
+<p>We&#8217;re now actively engaging with US companies and exchanges about listing Toncoin and TON-based assets, including stablecoins. We&#8217;re encouraging stablecoin issuers to natively mint on TON. The community has already begun holding events in the US, and the foundation plans to establish physical representation there.</p>
+
+
+
+<p>A significant development is making the non-custodial portion of TON Space wallet available to US persons, which was previously restricted. This strategic shift recognizes the importance of the US market while maintaining compliance with regulatory requirements.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-what-s-your-message-at-hong-kong-web3-festival-and-asia-pacific-strategy">What&#8217;s your message at Hong Kong Web3 Festival and Asia-Pacific strategy?</h6>
+
+
+
+<p>Our strategic positioning distinguishes us from conventional blockchain projects—we target mini-app developers rather than smart contract developers. While other chains attend Ethereum conferences to compete for smart contract developers, we focus on regions with established super-app ecosystems. The APAC region is particularly important because people here understand and use super-apps like WeChat, Line, and KakaoTalk.</p>
+
+
+
+<p>We access this market through Hong Kong, building relationships with key players like Hashkey, who&#8217;ve supported us by providing main stage access for TON Ecosystem Day two years running. This partnership is strategic because APAC users possess sophisticated familiarity with integrated digital ecosystems, making them ideal early adopters for TON&#8217;s mini-app ecosystem within Telegram. The region&#8217;s familiarity with integrated digital experiences makes it fertile ground for our approach to Web3 adoption.</p>
+<p>The post <a href="https://beincrypto.com/steve-yun-reveals-ton-foundation-strategy/">TON&#8217;s Path to 500M Users and US Expansion Plans &#8211; Interview with Steve Yun</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/04/Steve-Yun.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/04/Steve-Yun.png"/>	</item>
+		<item>
+		<title>Scaling DeFi on Cardano with Purpose: CEO Matteo Coppola on FluidTokens&#8217; Vision</title>
+		<link>https://beincrypto.com/ceo-matteo-coppola-fluidtokens-vision/</link>
+		
+		<dc:creator><![CDATA[Lynn Wang]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 15:31:04 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=680913</guid>
+
+					<description><![CDATA[<p>Cardano isn’t usually the first place people look for DeFi innovation. But projects like FluidTokens are beginning to challenge that assumption, focusing on fundamentals like decentralization, fee stability, and long-term scalability. That vision starts with Aquarium, FluidTokens’ system for making Bitcoin usable within Cardano DeFi. It introduces Babel Fees, which allow users to cover transaction &#8230; <a href="https://beincrypto.com/ceo-matteo-coppola-fluidtokens-vision/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/ceo-matteo-coppola-fluidtokens-vision/">Scaling DeFi on Cardano with Purpose: CEO Matteo Coppola on FluidTokens&#8217; Vision</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Cardano isn’t usually the first place people look for DeFi innovation. But projects like <a href="https://fluidtokens.com" target="_blank" rel="noreferrer noopener nofollow">FluidTokens</a> are beginning to challenge that assumption, focusing on fundamentals like decentralization, fee stability, and long-term scalability.</p>
+
+
+
+<p>That vision starts with Aquarium, FluidTokens’ system for making Bitcoin usable within Cardano DeFi. It introduces Babel Fees, which allow users to cover transaction costs with any Cardano Native Token—including bridged Bitcoin—without needing ADA. Then there’s Midgard, a lightweight roll-up designed to speed up transactions while still relying on Cardano’s base-layer security.</p>
+
+
+
+<p>In this Q&amp;A, we speak with FluidTokens’ CEO, Matteo Coppola, about what they’re building behind the scenes—from a new lending protocol to a broader vision that touches Bitcoin, real-world assets, and more.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-building-where-it-counts-why-cardano-is-more-than-a-home-base"><strong>Building Where It Counts—Why Cardano Is More Than a Home Base</strong></h2>
+
+
+
+<p><strong>BeInCrypto: </strong>Building on Cardano is often overlooked in the Ethereum-dominated narrative. What strategic advantages has Cardano offered FluidTokens, beyond the usual talking points around fees and uptime?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>Ethereum had the first-to-market advantage in the smart contract economy, and its Account Model was therefore used as the standard for many years. Cardano instead keeps the original Bitcoin architecture, expanding it to allow proper UTXO smart contracts.&nbsp;</p>
+
+
+
+<p>Now that the general web3 community is facing the limitations of the Account Model, UTXO-based blockchains can show a better alternative, all properly connected by Cardano.&nbsp;</p>
+
+
+
+<p>Cardano offers FluidTokens an always online realistic decentralized environment that can properly bridge assets among UTXO blockchains such as Bitcoin and any Layer 2 that anchors its security to a UTXO Layer 1.&nbsp;</p>
+
+
+
+<p>Additionally, Cardano has one of the most vibrant communities, where its numbers are not made by bots and wash trading but by the authentic interest of real people.</p>
+
+
+
+<p>FluidTokens has been a leading DeFi ecosystem on Cardano since 2022. It is currently the only ecosystem that has deployed real DeFi protocols on Bitcoin layer-1, so it’s a no-brainer to keep supporting and improving Cardano.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>The Aquarium Babel fees model introduces a different way of thinking about user incentives. What led you to design it this way, and what kinds of user behavior are you hoping it encourages?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>Blockchain is a core part of any Web3 stack—but end users shouldn’t be burdened by the complexities of transaction building or on-chain settlement. The experience should be simple, secure, and smooth.&nbsp;</p>
+
+
+
+<p>This is impossible if the user has to own and manage ADA, the native currency that Cardano accepts, to execute transactions. For example, how can an average person know where to buy ADA, how not to get scammed, how to do an annoying KYC on a centralized exchange, how much to buy, and how to send it to their non-custodial wallet? All of this must be avoided if ADA is not necessary in his daily operations.</p>
+
+
+
+<p>Aquarium allows users to pay transaction fees with custom tokens, such as stablecoins, in a fully decentralized way. An open market provides ADA to sponsor transaction fees in exchange for a certain amount of another token, allowing supply and demand to be met and simplifying the user experience.&nbsp;</p>
+
+
+
+<p>Aquarium will also enable Bitcoin users to execute DeFi operations on Cardano without the need to own any ADA, officially enabling Cardano as a DeFi layer for Bitcoin.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>Midgard plays a role in FluidTokens’ approach to scaling. How does it fit into your broader roadmap for expanding access to DeFi while staying aligned with decentralization?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>We are building Midgard in collaboration with Anastasia Labs to solve the Cardano fast-finality and low-fee issues that you inevitably meet when on any properly decentralized blockchain.&nbsp;</p>
+
+
+
+<p>On Midgard, our DeFi products can become highly competitive with traditional ones, empowering real-time trading, video game economies, and daily retail payments.&nbsp;</p>
+
+
+
+<p>Combined with Aquarium babel fees, the user experience starts to become pretty close to the old traditional system while keeping the most fundamental aspect—decentralization.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>FluidTokens is rolling out a new lending protocol. Can you walk us through the core idea behind it and what specific problems you’re aiming to solve that other protocols haven’t addressed yet?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>The new FluidTokens lending protocol has been designed in a highly modular way to accommodate an impressive number of different types of loans. The objective is to apply a different flavor of lending to ensure all user categories find what they are looking for on both the lending and the borrowing sides.</p>
+
+
+
+<p>Lenders, whether private individuals or institutions, can customize everything from interest rates and liquidity terms to installment structures, oracles, collateral types, liquidation settings, and even optional loan expiration. This level of configurability makes it easier for them to meet their highly specific requirements.</p>
+
+
+
+<p>On the borrowing side, users are able to navigate easily among a plethora of different offers and even request specific loans to find the best deals worldwide. All of this is wrapped in an intuitive user experience with extensive automation to make the entire process as simple and efficient as possible.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-bringing-rwa-and-bitcoin-into-cardano-s-defi-game"><strong>Bringing RWA and Bitcoin into Cardano’s DeFi Game</strong></h2>
+
+
+
+<p><strong>BeInCrypto: </strong>Real-world assets (RWAs) have become a buzzword in DeFi, but real-world traction is still limited. From your vantage point, what needs to happen—technically and regulatorily—for institutions to engage meaningfully with on-chain collateral?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>The Web3 space enables access to markets that may normally be out of reach, while the fractionalization of RWAs creates opportunities for players of any size.&nbsp;</p>
+
+
+
+<p>Traction is limited for at least two main reasons: older user generations tend to still use traditional web2 platforms to buy virtual assets, and clear legislation about RWAs is still absent in many countries.</p>
+
+
+
+<p>In fact, as it often happens, the law lags behind technological progress, and institutions must adhere to strict compliance, missing out on RWA opportunities until an RWA-friendly iteration of the law is released.</p>
+
+
+
+<p>At FluidTokens, we are working on our DeFi products anticipating the direction of this industry, enabling RWAs of any type to be used as collateral to get safe and immediate liquidity.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto:</strong> FluidTokens has expressed interest in bridging DeFi with Bitcoin. What’s the thinking behind that direction, and how do you see Bitcoin contributing to a more interoperable DeFi ecosystem?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>In 2024, FluidTokens released a technological framework called BitWeave to create proper DeFi protocols on Bitcoin L1 without the need to bridge assets to other blockchains.&nbsp;</p>
+
+
+
+<p>The annoying issue is that on Bitcoin L1, you still have to face long transaction times and fee spikes that sometimes may hinder your DeFi experience. Additionally, the user experience highly depends on the limited Bitcoin scripting language.</p>
+
+
+
+<p>Therefore, it becomes necessary to have a secure layer with more expressive programmability, where smart contracts can be executed on the UTXOs that contain your assets (BTC, Runes, Ordinals, and more).&nbsp;</p>
+
+
+
+<p>As it turns out, from a cryptographical perspective, the safest and most trustless way to bridge the huge Bitcoin liquidity into the DeFi world is through a UTXO blockchain such as Cardano. We are actively working on this aspect, contributing alternatives to the solutions that have been proposed so far.</p>
+
+
+
+<p>Moreover, from FluidTokens&#8217; perspective, we wanted to unify our ecosystems, which currently exist on Cardano and Bitcoin, to simplify the user experience. In an ideal Web3 world, any BTC holder should be able to connect their wallet and participate in DeFi protocols earning yield without realizing that there’s a trustless bridge and that he is currently on another chain.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-what-defi-needs-now-and-next-privacy-integrity-and-purpose"><strong>What DeFi Needs Now and Next: Privacy, Integrity, and Purpose</strong></h2>
+
+
+
+<p><strong>BeInCrypto:</strong> As DeFi evolves, the tension between privacy and compliance is intensifying. Where does FluidTokens draw the line, and how should the industry think about privacy amid increasing surveillance?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>DeFi has the unique ability to exist among all possible degrees of privacy and compliance. The core idea we must always follow is to protect our digital assets accepting compliance procedures only when they are strictly necessary.&nbsp;</p>
+
+
+
+<p>For example, a peer-to-peer economy should fully protect privacy and freedom, while to borrow stablecoins from an institutional provider, we necessarily need to adhere to anti-terrorism rules and accept a KYC procedure. To improve the situation even more, Zero-Knowledge proofs allow to prove KYCs and KYBs without disclosing the actual personal information.&nbsp;</p>
+
+
+
+<p>On top of that, blockchains like Midnight can hide all the transaction details allowing businesses to be privacy-compliant and protected from competitors’ on-chain analysis. This is why FluidTokens is also building on Midnight: the users, the businesses, and the institutions can find the proper way to provide and borrow liquidity, scaling the opportunities on web3 without compromising their business model.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>On a more personal note—what kind of leadership do you believe this next chapter of DeFi demands, and how are you shaping FluidTokens’ culture to meet the moment?</p>
+
+
+
+<p><strong>Matteo Coppola: </strong>In the past crypto years, we have seen many fraudulent Web3 companies that sacrificed ethics and respect towards the community in order to extract all the possible value, FTX, for example.&nbsp;</p>
+
+
+
+<p>Now instead, we often see all the major players being highly competitive, offering yields with tokens and derivatives that are safe until the current goes in the right direction. Still, they are actually a castle of cards where one wrong movement at the base can provoke a general collapse.&nbsp;</p>
+
+
+
+<p>The new kind of leadership that DeFi needs is made of experts who really care about decentralization and fair financial opportunities, where the offered solutions solve real-world problems and facilitate a global financial world that is not uniquely made of memes and questionable digital currencies.&nbsp;</p>
+
+
+
+<p>At <a href="https://fluidtokens.com" target="_blank" rel="noreferrer noopener nofollow">FluidTokens</a>, I push the team to work and fight to achieve Bitcoin&#8217;s original vision of a fair, accessible, secure, and transparent financial future.</p>
+<p>The post <a href="https://beincrypto.com/ceo-matteo-coppola-fluidtokens-vision/">Scaling DeFi on Cardano with Purpose: CEO Matteo Coppola on FluidTokens&#8217; Vision</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/03/Matteo-Coppola.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/03/Matteo-Coppola.png"/>	</item>
+		<item>
+		<title>What Comes After 200 Million Downloads? Trust Wallet&#8217;s Eowyn Chen Charts the Next Moves</title>
+		<link>https://beincrypto.com/trust-wallet-eowyn-chen-next-moves/</link>
+		
+		<dc:creator><![CDATA[Lynn Wang]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 13:15:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<category><![CDATA[Cryptocurrency Wallet News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=680838</guid>
+
+					<description><![CDATA[<p>Trust Wallet surpassed 200 million downloads this year and ranked as the most downloaded wallet globally in March 2025. As more users look for direct control over their digital assets, the company is shifting its focus from simple storage to a broader set of tools for interacting with Web3. In this interview, CEO Eowyn Chen &#8230; <a href="https://beincrypto.com/trust-wallet-eowyn-chen-next-moves/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/trust-wallet-eowyn-chen-next-moves/">What Comes After 200 Million Downloads? Trust Wallet&#8217;s Eowyn Chen Charts the Next Moves</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Trust Wallet surpassed 200 million downloads this year and ranked as the most downloaded wallet globally in March 2025. As more users look for direct control over their digital assets, the company is shifting its focus from simple storage to a broader set of tools for interacting with Web3.</p>
+
+
+
+<p>In this interview, CEO Eowyn Chen discusses Trust Wallet’s product direction, the growing role of AI, and what it takes to design accessible tools without compromising on autonomy. She also reflects on her leadership approach and the long-term vision behind the company’s push toward user empowerment.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>Eowyn Chen: </strong>Being a Web3 companion means showing up for users across every step of their journey—not just storing assets, but helping them safely explore, learn, and engage. The wallet is no longer just a tool; it’s the interface to the future economy. That means abstracting technical hurdles, offering helpful context when users need it, and keeping them protected along the way.&nbsp;</p>
+
+
+
+<p>For us, it’s also about values—standing on the user’s side, upholding self-custody, and enabling freedom without compromise. Whether someone is making their first swap or interacting with an AI-powered dApp, the wallet should feel like a trusted guide, not a challenge to overcome.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>Hitting 200 million downloads and topping March 2025’s global wallet charts is no small feat. What do you believe this milestone says about the direction of user behavior in Web3, and what signals are you paying the most attention to?</p>
+
+
+
+<p><strong>Eowyn Chen: </strong>This milestone shows that users are increasingly prioritizing autonomy, access, and ownership. Self-custody is no longer just for early adopters—it’s becoming a mainstream expectation.&nbsp;</p>
+
+
+
+<p>We’re also seeing strong demand for tools that make Web3 simpler without sacrificing control. That means onboarding must improve, cross-chain interactions must feel seamless, and safety must be embedded into the experience.&nbsp;</p>
+
+
+
+<p>At a deeper level, we’re tracking signals beyond just volume: retention, confidence, and the kinds of real-world problems users are trying to solve with Web3 tools. Our job is to listen closely and build with intention, not just scale for growth’s sake.</p>
+
+
+
+<p><strong>Eowyn Chen: </strong>It’s a fine balance, but an essential one. The ethos of self-custody means putting users in control—but that shouldn’t mean putting them through unnecessary friction. We’re working to abstract away pain points like gas fees, key management, and confusing transaction flows, while still keeping users informed and empowered. Our approach is to blend technical standards (like account abstraction) with intuitive UX and even AI-driven assistance. The goal is to make the complexity feel seamless—so users don’t need to think about what’s under the hood, only that it works, and they’re in control.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>You’ve spoken about Trust Wallet evolving into something like the “Revolut of Web3.” What does that analogy look like in practice—and how do onramps, token discovery, and scam protection play into that larger ambition?</p>
+
+
+
+<p><strong>Eowyn Chen: </strong>Think of it as combining the polish and ease of a Web2 fintech app with the freedom and transparency of Web3.&nbsp;</p>
+
+
+
+<p>In practice, this means enabling users to move smoothly across experiences: accessing crypto with fiat, discovering real on-chain opportunities, engaging with dApps, and avoiding threats like scams or fake tokens. It’s about building a unified experience where everything—from token discovery to protection to exploration—feels cohesive and trusted.&nbsp;</p>
+
+
+
+<p>We’re not trying to replace banks or exchanges, but to offer a self-custody alternative that feels just as seamless and far more empowering.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>TWT utility is growing beyond governance into a more integrated part of the user journey. What role do you see it playing in strengthening user retention, trust, and community participation in 2025 and beyond?</p>
+
+
+
+<p><strong>Eowyn Chen: </strong>We’re focused on aligning TWT utility with meaningful user value. That includes areas like supporting gas fees, boosting staking rewards, or unlocking loyalty and referral benefits.&nbsp;</p>
+
+
+
+<p>The more TWT becomes part of the everyday user experience—without compromising security or sovereignty—the more it can help strengthen long-term engagement. It’s not about short-term incentives, but creating mechanisms that reward participation, build trust, and reinforce community ownership over time.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>With AI-powered assistance becoming part of Trust Wallet’s interface, how do you balance the value of helpful automation with the responsibility of preserving user agency and privacy?</p>
+
+
+
+<p><strong>Eowyn Chen: </strong>We believe AI can enhance self-custody, not replace it. The key is giving users smarter context, not taking decisions out of their hands. Whether it’s flagging a suspicious address, summarizing a transaction, or helping someone troubleshoot an issue, AI should feel like a co-pilot—not a black box.&nbsp;</p>
+
+
+
+<p>Privacy is non-negotiable, so we’re building AI in ways that don’t compromise control or expose sensitive data. The vision is a wallet that knows you well enough to help, but respects your boundaries. It’s about trust, transparency, and user-first design at every layer.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>You’ve led Trust Wallet through volatile markets and deep technical shifts. What has shaped your leadership style most—and how do you keep your team aligned with a long-term mission when the industry often rewards short-term hype?</p>
+
+
+
+<p><strong>Eowyn Chen: </strong>Resilience, clarity, and values. This industry moves fast, but we’ve seen time and again that chasing hype doesn’t build lasting trust.&nbsp;</p>
+
+
+
+<p>What grounds me is staying close to our users and our mission: to empower people with ownership, access, and opportunity. I try to lead with transparency—sharing both our ambitions and our challenges—and to create space for builders to experiment without losing sight of why we’re here.&nbsp;</p>
+
+
+
+<p>The best ideas often come from people who deeply care, so part of leadership is protecting that space while still moving decisively.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>BeInCrypto: </strong>Looking ahead, what would success look like for Trust Wallet not just in terms of users or revenue, but in terms of reshaping how people interact with digital value every day?</p>
+
+
+
+<p><strong>Eowyn Chen: </strong>A big part of success means users don’t even have to think about the word “Web3”—they just do what they need to do, confidently and securely. Whether it’s sending money to family, collecting rewards, securely storing their crypto assets, or interacting with a digital ID, their wallet handles it naturally.&nbsp;</p>
+
+
+
+<p>We want to help make self-custody the default experience—not just for crypto, but for digital value in all forms.&nbsp;</p>
+
+
+
+<p>If we’ve done our job right, users will feel more empowered, more connected, and more in control of their digital lives—not just because of Trust Wallet, but because of what it enabled them to do.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="We Hit 200M Downloads — Thank You &#x1f499;" width="500" height="281" src="https://www.youtube.com/embed/fFCCQyJCREk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+<p>The post <a href="https://beincrypto.com/trust-wallet-eowyn-chen-next-moves/">What Comes After 200 Million Downloads? Trust Wallet&#8217;s Eowyn Chen Charts the Next Moves</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/03/Eowyn-Chen_trust_wallet.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/03/Eowyn-Chen_trust_wallet.png"/>	</item>
+		<item>
+		<title>Through Thick and Thin: How Venture Capitals Are Building Web3’s Future Beyond the Bull</title>
+		<link>https://beincrypto.com/venture-capitals-building-web3-future-beyond-bull/</link>
+		
+		<dc:creator><![CDATA[Alice Li]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<category><![CDATA[Blockchain news]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=679657</guid>
+
+					<description><![CDATA[<p>Venture capital in Web3 is undergoing a transformation. The speculative era of the initial coin offering (ICO) boom in 2017 has given way to a more structured investment environment, where institutional capital plays a defining role. As the sector matures and competition heats up, venture capital firms are faced with the need to adjust their &#8230; <a href="https://beincrypto.com/venture-capitals-building-web3-future-beyond-bull/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/venture-capitals-building-web3-future-beyond-bull/">Through Thick and Thin: How Venture Capitals Are Building Web3’s Future Beyond the Bull</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Venture capital in Web3 is undergoing a transformation. The speculative era of the initial coin offering (ICO) boom in 2017 has given way to a more structured investment environment, where institutional capital plays a defining role. As the sector matures and competition heats up, venture capital firms are faced with the need to adjust their strategies in order to stay relevant.</p>
+
+
+
+<p>The industry’s evolution into an emerging financial ecosystem has also placed increased importance on activities of venture capital firms such as Foresight Ventures, which serves as key indicators of market sentiment and insights into high potential growth sectors.&nbsp;</p>
+
+
+
+<p>Yet, as capital deployment strategies evolve, so too does the challenge of aligning incentives: balancing the interests of VCs with Web3 builders has created a complex environment for stakeholders. The entry of mainstream investment firms into the space has intensified competition, as each VC seeks to maximize productivity with each dollar committed.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-investing-landscape-and-current-dynamics"><strong>Investing Landscape and Current Dynamics</strong></h2>
+
+
+
+<p>Considering the rapid growth of Web3 over the past few years, there are now startups whose success rivals that of established firms. For instance, Polymarket, a highly successful prediction market on the Polygon network, gained significant attention during the past US elections.</p>
+
+
+
+<p>With over <a href="https://www.onesafe.io/blog/polymarket-trading-volume-2024" target="_blank" rel="noreferrer noopener nofollow">$9 billion</a> in traded volume, the platform underscored the potential for crypto-native applications to compete with Web2 alternatives.</p>
+
+
+
+<p>Likewise, the success of <a href="https://beincrypto.com/learn/crypto-ai-agents-explained/" target="_blank" rel="noreferrer noopener">AI Agents</a> toward the end of 2024 has also sparked optimism that Web3 is on the rise. These autonomous multipurpose agents are now used in finance, predictions, music, and other key growth areas of Web3. </p>
+
+
+
+<p>The popularity of PayFi has seen the sector process over $1 trillion in transactions annually, irrespective of broader market sentiments. The ecosystem facilitates B2B cross-border payments, the market for compliant stablecoins, and enhances on-chain and off-chain credit systems.&nbsp; PayFi also plays a crucial role in enabling people in emerging markets to on-ramp/off-ramp, promoting broader adoption of crypto for real-world commerce, especially in regions where access to traditional banking may be limited.</p>
+
+
+
+<p>In terms of most active VCs, data from CryptoRank and insight4vc indicates in 2024 Animoca Brands led venture capital activity with over 100 funding rounds, followed by OKX Ventures with more than 80. Cogitent Ventures, Binance Labs (now known as YZi Labs), and Foresight Ventures each completed approximately 50-60 rounds, underscoring their significant influence on the crypto investment landscape.</p>
+
+
+
+<p>As a leading active venture capitalist, navigating market inconsistencies is both a challenge and an opportunity. Market downturns are common, often fueled by broader macroeconomic trends and over the years, we have witnessed multiple downturns that have forced VCs to dial back their investment efforts.</p>
+
+
+
+<p>Still, these testing periods can also present the most promising opportunities. This is because, like in Web2, innovations that emerge from the harshest of economic conditions tend to have a higher prospect of long-term success. For example, Coinbase was established when the world was recovering from the 2008 global economic meltdown. Today, it is the largest exchange in the United States, with a publicly traded capitalization of $56.85 billion.</p>
+
+
+
+<p>Over time, VCs have had to implement a multifaceted operational approach to support their portfolio companies. While ready capital serves as an incentive, providing technical support, consultancy and industry networking opportunities for founders have consistently helped create the most resilient companies.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-areas-of-focus-for-future-innovation"><strong>Areas of Focus for Future Innovation</strong></h2>
+
+
+
+<p>When it comes to geography and opportunities, we focus on the U.S. and Asian markets. Asia presents significant potential, though it is a fragmented market with diverse cultures and regulations. The U.S., on the other hand, is making progress with improving regulations, and its positive approach to crypto could help reattract talent. VCs with offices in both sides of the world have the unique ability to leverage various resources in both eastern and western markets, providing a strong competitive edge to their portfolio companies.&nbsp;</p>
+
+
+
+<p>In the earlier years of Bitcoin (BTC), retail investors played a crucial role in sustaining the industry. However, the ecosystem is now populated with institutional investors, like <a href="https://beincrypto.com/microstrategy-makes-bitcoin-purchase-at-2-billion/" target="_blank" rel="noreferrer noopener">Strategy</a> (formerly MicroStrategy) and Rumble, who have considerable influence on the market and have altered the dynamics of capital allocation.</p>
+
+
+
+<p>Beyond Bitcoin, innovations and developments in stablecoins and decentralised finance (DeFi) remains a focal point for investors. AI-driven blockchain applications, meanwhile, are reshaping expectations for Web3’s utility. While many protocols seek to capitalise on this shift, only a few have demonstrated the infrastructure required to support large-scale adoption.</p>
+
+
+
+<p>One such ecosystem is the BNB Chain, which has attracted significant investment. Foresight Ventures recently pledged $25 million to fund startups participating in the Most Valuable Builder (MVB) programme, an initiative co-launched with YZi Labs. The aim is straightforward: to identify and nurture exciting projects with the potential to change the world and drive broader crypto adoption.</p>
+
+
+
+<p>The crypto market is currently undergoing a significant correction, with valuations sharply declining across the board. While short-term sentiment remains bleak, experienced venture capitalists understand that downturns create opportunities. The industry is evolving, and trends will likely shift in the coming months. With pro-crypto regulations emerging across the globe, it remains to be seen which venture capital firms will be able to seize the many opportunities that will be presented in the industry.</p>
+
+
+
+<p>Established VCs understand this trend, and many strategically choose projects and ecosystems with the best odds of fulfilling their goals. The industry is evolving, and trends will likely shift in the coming months. With pro-crypto regulations emerging across the globe, it remains to be seen which venture capital firms will seize the many opportunities in the industry.</p>
+<p>The post <a href="https://beincrypto.com/venture-capitals-building-web3-future-beyond-bull/">Through Thick and Thin: How Venture Capitals Are Building Web3’s Future Beyond the Bull</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2025/03/Alice-Li.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2025/03/Alice-Li.png"/>	</item>
+	</channel>
+</rss>

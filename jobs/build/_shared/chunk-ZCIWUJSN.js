@@ -1,0 +1,1 @@
+import{f as m,i as f,j as s,k as i}from"/jobs/build/_shared/chunk-OTKXJQRY.js";i();var o=m(f()),u=(0,o.createContext)();function b(v){let{favoritesIds:a=[],children:n}=v,[F,r]=(0,o.useState)([...a]),d={favorites:F,addToFavorites:e=>r(t=>[...t,e]),removeFromFavorites:e=>r(t=>t.filter(c=>c!==e))};return s.createElement(u.Provider,{value:d},n)}export{u as a,b};

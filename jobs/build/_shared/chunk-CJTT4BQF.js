@@ -1,0 +1,1 @@
+import{c as p,k as e}from"/jobs/build/_shared/chunk-OTKXJQRY.js";var g=p((l,o)=>{e();o.exports=f;var v=Object.prototype.hasOwnProperty;function f(){for(var n={},r=0;r<arguments.length;r++){var t=arguments[r];for(var a in t)v.call(t,a)&&(n[a]=t[a])}return n}});export{g as a};
